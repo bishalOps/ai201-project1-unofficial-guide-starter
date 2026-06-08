@@ -1,0 +1,131 @@
+SOURCE: r/cscareerquestions
+TITLE: Failed a medium/easy coding question and feel terrible
+URL: https://www.reddit.com/r/cscareerquestions/comments/pjgf10/failed_a_medium_easy_coding_question_and_feel/
+
+--- POST ---
+I had a coding interview where I was given a somehow easy (moderate) question. I have being training and I have long experience in development (14 years). I should solve that question in 30 mins but I took 1 hour and in the end I was tired and couldn't think. The day after I thought about what I coded and realize it makes no sense and there is major flaws. I coded a more correct version first but the interviewer tips make me change the code and I forget to implement some parts to make it work. But I neglected that part and was focusing on some other aspect and forgot to implement the whole logic. In the end the interviewers didn't say anything about the mistakes but today thinking about the code it has huge flaws. I feel destroyed and I feel I cannot think when Im nervous. I just get 10% of my capacity when I get nervous. How to get over such a blunder?
+
+--- COMMENTS ---
+Dawg, you just have to keep going. I’ve failed like a dozen technical screens or on-sites in the past month, and I’m feeling better than ever. Why? Because I’ve gotten a ton of practice and now I have a really good sense of which skills/knowledge I need to improve. I even have a whole curriculum set up now for working on the things I stumbled on. Failure is just an opportunity for improvement. Keep your chin up and keep going.
+
+You bring up something else I’ve been thinking about. How do you sell your enthusiasm for wanting to work at all these companies? In my original field they would want to see that I have done my homework on their history and show genuine passion for THEIR company. How can you possibly do that applying for dozens of companies?
+
+Yes, that has been a problem for me, partially due to the fact that I had a far higher application response rate than I was expecting, so I ended up with way too many interviews. In the future I'm going to be more intentional about applying to specific jobs that I'm actually interested in because companies definitely suss out that kind of stuff, especially in later rounds.
+
+​
+
+Overall though, you can kinda bs it, to some extent. You basically want to show that there's some sort of alignment between the company's goals and your goals as a software engineer, and that you can help fill whatever deficit that they currently have in terms of labor/engineering (i.e. the reason they're even hiring in the first place).
+
+So let’s say for example you were applying to S-chat but you didn’t personally use the platform yourself nor really care about social media. I guess you could frame it like you are passionate about solving scaling issues or something similar that is fairly agnostic of the company as a whole? Also, do you find the behavioral questions intimating? I’ve tried to practice what I would say but ultimately it seems like a shoot from the hip kind of thing.
+
+For something as popular as s-chat, I would just download the app and use it a little to get familiar with it. For other stuff, I think companies will be more understanding if you've never used their product, like it it's some large enterprise software or something.
+
+​
+
+Actually, I still need to work on behavioral questions, so I'm definitely not an expert, but my plan is to write out answers to 20-30 behavioral questions, try to use the START method (but not rigidly), practice with my partner (who has much higher emotional intelligence than I do), etc. Also, there are lots of good videos on youtube about how to approach behavioral questions.
+
+It happens to everyone. Interviews are a numbers game.
+
+10% of the time it's a brain freeze like you had
+
+20% of the time, the interviewer is an idiot who doesn't know how to explain the question, has an incorrect test case, or just only one knows one solution and doesn't understand any other way. Literally had it with Google the other day where I gave a solution via a breadth first search (which was correct), and then the interviewer only knew how to do a follow up question if the first part was depth first search.
+
+20% of the time, you'll just be clueless and didn't study that question or just be dumb to that particular question.
+
+10% of the time, you'll get it mostly right, but will be knicked by something that is make or break. Didn't optimize one part...missed one edge case.
+
+10% of the time, you might have a bug, and the interviewer won't let it go and doesn't care that 90% of it is right
+
+You can prepare all you want, but chances are, you are still going to fail 70% of the time.
+
+So, if you need a job, you just interview at 10 places so you have 3 offers. Not one place to have, more likely than not, 0 offers.
+
+I had a question where I provided what I thought was an optimal solution. The interviewer couldn’t understand my answer even though I had walked through it line by line twice, and the test cases worked. So he brought someone else on the call, who finally said “yeah, that sounds right”.
+
+I thought maybe there was another solution the interviewer was expecting, so googled the question after. Nope. My solution used the same logic as every example I could find online. This asshole asked the question without even knowing how to solve it.
+
+I got to meet him in person during the on-site later. Huge asshole.
+
+Still better than the Asana interviewer I had at phone screen who was pretty much a new grad doing front end work (I work as backend).
+
+Guy literally wanted me to write 1 unit test to test 4 different functions. Then proceeded how my unit test should be calling some helper unit test to make it short. Idiots like those ruin your chances for no reason (and yes, I got rejected because my unit tests weren't up to his 1 function test all standard).
+
+Also had an interviewer in the past in which the interviewer himself spent 20 min wording the question followed by 'but try to develop it from your perspective, not mine' followed by 'but what about my approach' followed by 'but don't follow my approach. You should stick to yours' and going back and forth. Then being also a front end engineer (seems front end engineer interviews in general are absolute garbage interviewers) said something along line of, 'python can take any parameter type, right? You should code your function so it can take in functions or constants'. When I told him that might be a huge headache for code maintainence later on, that interviewer could not understand. Also got rejected and did I forget to add, he too only had 1 YOE.
+
+When I see an interview process nowadays with a front end engineer in the loop, I quickly judge on the "quality" of the job position. If the company does not care to put in the right interviewers, then why bother work for the company. And this is especially true if that front end engineer is like 0~2 YOE engineers.
+
+I just get 10% of my capacity when I get nervous. How to get over such a blunder?
+
+Welcome to the interview process. It happens to everyone. I had that happen too fairly recently. It sucks and it's especially common when you are getting interviewed from like 8:30 AM all the way to 4:30 PM. At some point, your brain just dies especially if you had to do some urgent code work until 4 AM for work.
+
+Just move on. It happens to everyone including even the best.
+
+But ya, it sucks. Coding interviews are broken in this industry. Just something we just got to accept at this point and do better on the next one (if there is one in the near future).
+
+Meanwhile, go buy yourself something like Ben n Jerry's and shove some ice cream in your face. :)
+
+Thanks, Im isolated in Japan it really helps to talk and to listen to peoples experience. Im very experienced and have made some very complex projects by myself, so its hard to accept such a ridiculous performance. Its embaracing. I guess I have to just accept I wasnt thinking at all and learn the lesson. I need to calm down before trying to do anything else, otherwise my brain just freezes. Its terrible.
+
+Interviews != Real world software development
+
+And for your information, I recently bombed 1 interview so hard that the interviewer legitimately told me, 'you might want to ask your recruiter for a redo.'. Hahahhaa. Got rejected the very next day but ya, I couldn't even write a basic for loop. Literally just froze up as if it was my first time coding.
+
+The biggest irony is I can generally solve even Hards. Just for some reason that day, my brain decided to hate me. And of course, when you get tense, things ... well, ah well. Doesn't help I write in Scala at work and I do my interviews in Python or Java.
+
+Happens to the best of us. But ya, it's frustrating. Just know everyone has good and bad days. And for some people, the 'bad days' can be really damn bad. It's quite an experience. Screw these companies anyways with their interview processes. You either look like a genius (if you know the solutions) or a complete idiot (if you can't figure out the pattern). Really dumb if you think about it.
+
+Thanks for this man, I had a pretty bad interview the other day but every interview I know I’m getting better and better! Love to see I’m not alone in those sucky interviews
+
+Man I had an interview in April where I requested a 9 am slot. Was given a 6 am slot. I have adhd and getting up outside my sleep schedule fries my brain and usually takes a couple hrs to clear the fog. Did so poorly on it but sometimes you just gotta chalk it up to circumstances out of your control.
+
+Big companies, with extremely talented developers and QA engineers, manage sometimes to produce flawed and bugged solutions. Why are you not allowed to also make mistakes under pressure where you have to come up with a solution in 30 minutes?
+
+I'm still bad at this, but because I let my college algo knowledge atrophy and fade to basically 10% of what it was during my first three years of working professionally. Scheduling a few pramp interviews per week helped a ton along with actually forcing myself to study leetcode in a regimented way. Not just blindly completing problems, but actually clustering similar problems and working out on paper exactly how each solution should work. Some with time constraints some without.
+
+​
+
+Interviewing is a skill, and in my late twenties I've realized being good at this is basically the only way to make over $140k.
+
+On my last interview loops before landing my job I went through a bunch of tech screens (5 different companies at least). Landed two offers from top tier tech but rejected from Amazon, FB, and someone else. I just got lucky and the questions asked at the onsites were exactly stuff I could solve. Plus, wasn't really asked LC questions during my loops (at least, not the real puzzle-y ones). Still trying to ramp up on LC questions even though I'm not looking.
+
+I felt better reading every word in the rejection emails funny enough. I let my frustration and disappointment fuel me to study more.
+
+I have over 20 YOE but over time I have just gotten used to getting door slams. I learned not to take personal and reapply after cooldown (you gotta learn to round robin these companies lol). My current company, I failed their process at least 3 times in the past. It sucks but that's just how it goes. It's just a game kind of too me at this point. Sometimes the final boss kills you and other times you overcome after you master the boss patterns
+
+We all have bad days. Pick yourself up, dust yourself off and move on to the next one
+
+When practicing, you can try to mimic the interview process as much as you possibly can. This will make you feel more prepared and less nervous. Set a time limit, pretend there is someone listening to you, and explain like you would during an interview. Even better would be to do mock interviews. Good luck
+
+Michael Jordon missed more often than scoring.
+Lions, Tigers, Cheetahs all miss more often than they kill.
+
+The key is consistency in practice, interview, and a feedback loop that incorporates actions items from what we learned from that failure.
+
+That is sort of the golden rule to succeed in anything in life. Sometimes having a second person observe our process keeps us more honest.
+
+Personally i dont do any leet code. Im also not shooting to be the biggest earner either. Ill earn within regular pay rangr maybe a little higher or lower. I dont like leet code. If they want to measure my aptitude theyre free to do so but why should i do something i find so boring? Maybe youre just put of practice or you dont really want to do it. There are tons of jobs out there. Especially for seniors. Just dont dwell on it man.
+
+I also hate this proccess of solving those little puzzles. I can solve them, but when put on pressure and 45 mins.... whats the point? Its fucking ridiculous. But unfortunatelly all companies are asking this shit... I need a job, so,...
+I guess we need to keep doing this shitty process... its very rare nowdays to find a company that doesn't ask puzzles. Even small startups think they are google, lol.
+
+Where are you applying by chance? I was job hunting for a few months a couple months ago. I ran into i think 3 out of like 15 that did that. Others were more like how would you design this. But i was also applying for jr level and mid level. Current compnay im at had me show some of my.code and how would you design the objects and such for a scavenger hunt game.i got hired on as mid level. Last i checked we were still looking for a senior and solutions architect.
+
+But ya i have done any senior level interviews or higher. So maybe thats why. Do you hate your current job, not have a current job?
+
+To me if we just ignore thier shit leet code tests theyll change their ways. The only reason id consider working for any FANNG is for a resume, i hear the cultures are generally terrible. And unless i hear good things about a big company i inly apply to small and mid level.
+
+Yes, but most people agree to train and leetcode so to change scenario, we would have to gather, and everyone refuse together, which is unpractical..... :/
+
+Ya. Well if you have a job and its mot a rush you could just keep looking. Otherwise ya maybe practice see if some friends will drill you
+
+Yes. Well I don’t have a job now, but also not so much in a crazy rush. But unfortunately almost all jobs ask code puzzles :(
+
+Well being a senior im sure you know how to practice. Id give you more help.
+
+Let me ask you a question. When you do interviews do you feel youre intervening them at all or that youre just being interviewed?
+
+For the case of a coding interview, I just few interviewed. If its a behavioral interview I feel like asking things about company as well.
+
+I see. That is a tougher one. Though as a senior that seems so odd for them to still do leet code.
+
+I can't think of a way now to make it easier. But id look intona way uou could get youre mind to see if theres soemthing you can find to judge or evaluate to feel like the playing field is more even

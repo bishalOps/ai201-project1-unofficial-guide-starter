@@ -1,0 +1,91 @@
+SOURCE: r/UXDesign
+TITLE: Best advice for requesting job referrals from strangers
+URL: https://www.reddit.com/r/UXDesign/comments/1avz31e/what_is_you_best_advice_to_requesting_job/
+
+--- POST ---
+I am currently employed (which is great, and I dont take that for granted) but really want to leave my toxic workplace.
+
+Ive been at the same company for 7 yrs but the change in ownership has made the company go downhill.
+
+We all know the job market sucks and it seems like referrals are one of the best ways to get an interview. Here’s the thing, I just dont know how to track down the right person for a company i am interested in thats actually hiring and then as for a referral. Ive tried it a couple of time already but so far no response.
+
+Any tips or strategies I could follow to try and get better results.
+
+--- COMMENTS ---
+I received a job offer yesterday and have been told to expect another later this week. I have been working for >30 years and I have NEVER seen a market like this. The biggest thing I can tell you is to approach this as a product marketing mindset, remembering YOU are the product. You're going to have to drive interest and excitement.
+
+Here are some tips that I found that worked. This has turned into a novel so grab your favorite beverage and settle in for a bit:
+
+make finding your next job more or less an extra job. It wasn't unusual to work for 8 hours and then spend another 4+ hours researching, networking and applying.
+Don't send blind resumes/apply to any random job. You'll get buried. The odds are so heavily against you I found it wasn't worth my time. I did learn that one tech company of 20k employees had over a MILLION applicants last year.
+Get your portfolio site in order. I live on the "works well" side of the UX equation of looks good + works well. My personal site contains info about me, my resume, and case studies of projects I've completed/impacts and outcomes I've driven.
+Networking is key. I know you asked in another comment about how to do it. Start talking and interacting with people everywhere. Join various meetups, real and virtual. Take a training class and shamelessly connect with everyone there if you can. Contact former colleagues. Friends. Neighbors. Family members near and far. Reach out to as many as you can. Learn about where they work and determine if that company is something you'd like.Have conversations and explain that you're looking for a new role. Point them to your portfolio site.
+Similarly, Don't be shy about reaching out to second degree connections. This is the body of a LinkedIn message I sent multiple times: "Hi, (name), I see we're connected through a number of common connections. I'm interested in roles with (company name) and was hoping we could connect." This can open the door to conversations, and even if this person has no idea who the hiring manager might be, it can give you intel on the company. If you get the chance to chat with them, they may become comfortable enough with you to feel willing to send you a referral link.
+Start doing research and determine your targets. Be focused on roles and companies, don't go into it with an "I'll take anything" attitude no matter how tempting it is. You'll exhaust yourself. Honestly, in this market, consider local orgs with hybrid roles rather than out of town orgs with fully remote roles because the competition will be tougher. Don't waste time applying to jobs older than about a week if you can tell when they are posted. Even better, find a company you might like and see if you can find out when they'll be hiring and then get in front of it. Example: I wasn't a the right candidate for a role at one company, but I got friendly with the recruiter and started asking about other positions. It turns out that they're planning a next wave of hiring later this spring and I proactively introduced a friend who IS the right type of candidate to the recruiter. The recruiters want to source their roles in advance to make life easier when the roles do open up.
+That said, if you can work with a reliable (i.e. in your local area) recruiter, do it. Don't waste your time on folks reaching out to you, or folks not from your local area. Scammers are abundant, particularly overseas recruiters. If you post your resume out on a site like Dice or Monster, DO NOT include your phone number and if you can, make it so that interested parties can only contact you via the site and omit your email too.
+If you find a role at a target company and don't know anyone there, see if there are second degree connections through people you know. Request an introduction to the highest and/or closest to the role, or a recruiter. Use the highest person in your network to request that connection. For example, a former general manager facilitated an intro to a person who worked for the same company as the GM and I but at a different time. The GM's "brand" was strong enough that after a few chats with the new intro, he was more than happy to send me the link to the position at his company.
+It might take a couple of hops to find the right person and that is ok; use it as intel about the company. If you are able to find out who the recruiter is, contact them! Determine their potential email address format if you need to (look at press releases for ideas how they are formatted e.g. [first.last@company.com](mailto:first.last@company.com)) and don't be shy about reaching out.
+When you get interviews, be well prepared, as on top of your game as you can and remember the niceties like sending thank you notes after interviews. Always. You do NOT want to burn positive karma with connections willing to refer you by coming across poorly. It reflects on them and the pipeline of referrals will dry up.
+When you do apply, customize your resume for the position. I had a recruiter say this matters to them because it shows you're doing your homework and taking the role seriously. I used Teal.hq. IMO the jury's out on whether it was worth it, but I did like the tracking features and it did make it easier to ID likely key words to embed/change in my resume.
+Finally, if you're lucky enough to be employed and someone contacts you, please be kind and at least respond to them. Anything you can do in this market to help someone is just kind and it won't take you too long. Remember, karma's a bitch.
+Ultimately, the offer that came in yesterday is reporting to a former colleague at a company I'm very familiar with. The one I've been told to expect was the result of an introduction from a local recruiter I've been connected with for a while who had a heads up a few weeks before the position was officially opened up and she got me in the door first. Networking was key in both places.
+
+Best of luck to you. If it's any consolation, there is always a pendulum swing and I honestly believe this will not/cannot remain this way forever. Hiring will likely start to open up as we head toward the end of Q1 but then may likely shut down into Q4 more than normal due to election jitters in the US. Q2-Q3 may be your best best to find open roles in 2024.
+
+This is amazing! Thank you!
+
+You're so welcome. Best of luck to you.
+
+💣 novel 😃 updoot
+
+The cheatsheet that I needed desperately, Thanks a lot!
+
+You’re welcome! Best of luck to you!
+
+Thanks for this comment! Super helpful as I'm currently seeking new grad roles. Just curious, could you elaborate on "never seen a market like this"?
+
+Sure. The ratio of seekers to open positions in tech and design is so heavily skewed in favor of employers at the moment it is ridiculous. I was looking for product roles as that best fits the work I have done for the past few years but given the number of product folks cut loose from tech firms the competition is nuts. Usually it is much more balanced.
+
+Should balance out soon imo. Maybe a "hot take" but a lot of the people applying at the moment have no relevant experience or skills, and the YouTubers "earn 100k just take this free class" will move on to another field.
+
+When we got ~700 applicants we only interviewed like 30. Most of the applicants had terrible portfolios. It was just painfully time consuming going through them all since HR/recruiters were just looking at the resumes.
+
+I have heard that some hiring managers are asking the recruiters to send candidates directly to them because qualified candidates were getting skipped. I can't imagine the effort required to review all of those portfolios. Interviewing 30 candidates is still a tremendous effort, as well.
+
+Please don’t guess the HM’s company email, that’s wild. Many companies have to report any outside correspondence as spam.
+
+Fair point on the spam callout, but I have used direct contact based on email formatting as an option successfully in small doses.
+
+Respectfully, why would someone refer somebody else that they don't know? The whole point of a referal is that you're effectively vouching for that person's ability. Would you refer someone you had never met or spoken to before?
+
+Which is exactly the conundrum that I am in. I know I am not the only person in this position, I am just trying to work with what I have right now you know.
+
+If you have LinkedIn networking tips to help me get to that stage, I would appreciate it.
+
+Maybe your real question is how do you network?
+
+Hey ill take answers to that question as well haha
+
+I don't generally chat to random UXers. Make and maintain a good impression with past and present colleagues and you get lucky in the future.
+
+You only ask for referrals from people you know and who know you. Have you anyone at your current org that help?
+
+Unfortunately not really. The team size has dwindled recently and now I am sole UX designer on my team and my boss is the owner of company.
+
+I live in a Midwest city and market here has basically dried up for the moment. Most of the remaining employees are looking to jump ship too. We stay in communication with each other but most of networks are in the same city and since everything is dried up right now, the friend of a friend approach is very unlikely. Ill be reaching out to former coworkers tomorrow, but I have a feeling it will be largely the same story. No one is hiring.
+
+Im trying to find a remote role so I can build funds to relocate to a more industry friendly city in a neighboring state. Obviously not best moment to be looking but, this is what I have to work with. Hence why I was trying to find ways to get a referral from a stranger via LinkedIn. I have been getting attention from recruiters for remote roles but that has led to playing the waiting game. I just trying to find some other alternatives past the cold application approach.
+
+Someone who doesn’t know you at all isn’t likely to respond to these requests. Do you have an “2nd connections” with this company, such that you could ask a mutual acquaintance to introduce you to someone within the company? It’s a little more leg work, but you stand a better shot if you can make some sort of personal connection.
+
+Generally people aren't going to risk their reputation for a stranger unless the company has a huge referral fee/bonus and they really dont give a shit about potentially hiring "bad" people.
+
+No surprise you're not getting replies, I generally don't reply to the referral fishing messages unless its a friend of a friend type of thing.
+
+It's hard to find someone to refer you for a role if you don't know a person at that company.
+
+But in my opinion, everyone should have a way of getting referred to any company they want to even if you don't know someone personally there as the broader agenda here is that companies want to close the position fast and with good talent which is why referrals as a concept were introduced. So even if you don't know someone when you're referring them, it shouldn't be a problem because essentially you're acting like an HR only for your company.
+
+You can try using apps like Jumbl to request referrals without actuall having to plead people on LinkedIn to put a referral for you. One of my friends got a referral at Cloudflare through it and is in his final interview stage with them, so it most definietly works out.
+
+Hope this helps.

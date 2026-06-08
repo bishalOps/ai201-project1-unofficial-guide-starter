@@ -1,0 +1,292 @@
+SOURCE: r/cscareerquestions
+TITLE: Extreme Imposter Syndrome at new internship
+URL: https://www.reddit.com/r/cscareerquestions/comments/8w0dxx/extreme_imposter_syndrome_at_new_internship/
+
+--- POST ---
+So I miraculously got this SWE position for a growing startup. I'm not a great coder by the "books" (leetcode, algorithm knowledge, etc) but was able to get the job due to the unique hiring process which consisted of a take home project. I'm pretty good at learning on the fly and crunchtime so I got the job. This is my first SWE position and my prior experience consists of QA for another small startup and some small side-projects. Here I am day three and they hand me a bunch of tasks that I have no idea how to approach. AngularJS? jab servers? SSH protocol? All I was taught in school was to write code to a file, see the result in terminal, and submit. Is there something I am missing?? They certainly know I have no experience in dev work, yet I still feel embarrassed to ask them questions as I feel like I am wasting their time. Am I supposed to learn everything on google as I go? I feel like I'm not giving them the work they are paying me for. All I've done all day is read documentation and be scared about even touching the codebase let alone change code that I've just learned about on some 2008 forums.
+
+--- COMMENTS ---
+Is there something I'm missing?
+
+You're missing work experience that you're going to get through this job. Just keep working.
+
+Am I supposed to learn everything on google as I go?
+
+I have over 20 years of experience. The answer for the majority of your questions is yes. I google a lot. Sometimes, I am googling very basic things I cannot remember. Sometimes, I am googling some basics TODOs when I am not sure how to start. I google often a piece of codes solving some basic problem in different languages.
+
+Can you imagine how nervous I am when the Internet is down for more then 5 minutes?
+
+Internet went down at work yesterday for a few minutes. I ended up going to the break room to watch the world cup. I mean it's nearly impossible for me to code without google. I could write basic code to do what I want but when using frameworks/libraries I don't want to waste time and reinvent the wheel, so I google a lot. Also, just like you I sometimes know what I need I just can't recall the syntax.
+
+I learned that one the hard way a few times.
+
+Just last month, I wrote 50+ lines in Python to read some SQL data, sort it, parse it into a pretty format, and save it into a csv file.
+
+Then found out about pandas and did the same thing in... 15 lines? Felt pretty dumb after that.
+
+I can't tell you how big of a relief this is for me. I got interested in modifying source code for a game I played when I was ten, and for years and years thought that eventually I would be good enough to not Google things, and yet I continued to do so this entire time. This honestly makes me feel a lot better, I always imagined SWE's were notepad gods that could just dish out features in five minutes.
+
+Its like kids who think they'll be smart enough to learn the info without studying or reading the material. https://i.imgur.com/dLfPsSw.png?1
+
+In my young pre-teen days, absolutely. I was convinced eventually you'd just have to keep struggling and one day it would all click into place and you'd be zuck.
+
+Welcome to software engineering, dear sweet summer computer scientist
+
+I remember I didn't know how to change directories or any basic Unix commands in my first internship. That was pretty embarrassing lol
+
+I feel like that one is at least a little bit on the school. Most universities should at least go over the dead basic Unix commands (cd, ls, mv, rm and respective flags) in the early stages of a degree.
+
+Yeah I wasn't a cs major though
+
+Ah, okay, makes more sense then. I'd expect any reputable CS program would at least touch on that.
+
+I learned unix commands as an Art major, crazy as it seems. I took an intermediate class about computer graphics. It assumed you had no prior programming knowledge, and we also learned some C because it was needed for our OpenGL animations (the core part of the class). It was done in a very procedural manner, less theoretical, and more like, learning variables, loops and functions and skipping fundamentals.
+
+That's fine, it was probably good enough for your purposes.
+
+Other majors often just need to know enough programming to get by. In their case, code quality isn't as important as "just make it work".
+
+I'm teaching this poor windows dev that recently, they for some reason threw her on a lamp stack. haven't asked but guestimating from other things she's probably got about 3-4 years experience in general software dev, just never touched a linux machine.
+
+OP, you've already gotten good advice. Of course, this is the internet so I'll reiterate.
+
+Yes, you're EXPECTED to google the hell out of anything and everything. You're expected to be lost, break things, and generally fail. It's OK. It gives everyone a starting point for questions. And you should be asking questions. Lots of questions. If you're not in the middle of googling, breaking the build, or occasionally delivering solid code, you should be asking questions.
+
+Reading documentation and trying to perform psychic readings on an unfamiliar codebase via archaic, mysterious texts of unknown provenance. Sounds like an accurate description for AT LEAST 50% of any given SWE position.
+
+Diving into an unfamiliar codebase and tech stack is going to be fucking terrifying the first few times. The truly scary part is when you're NOT scared anymore and think you know what you're doing.
+
+You say you essentially got lucky in the hiring process. Dirty little not-really-secret: (Almost) no one gives a shit if you can whiteboard every leetcode hard problem + optimal solution on demand. Everyone gives a shit if you can learn on the fly, handle crunchtime, and ship the damn thing. Trying to teach those skills is damned difficult if someone doesn't already have a solid foundation. It's not a miracle you got the internship. It's a miracle you found a startup that knows how to hire for solid skills instead of the typical memorized bullshit
+
+Just want to say, even if you are the best coder in the world, if you can't pass those leetcode hards, it will be hard to get jobs at those top companies these sub loves. Of course this is not the be all end all, but it is a little misleading to say that no one gives a shit.
+
+The first word in the sentence you're calling 'a little misleading' is the caveat (Almost). Also, called the startup a unicorn because they didn't use leetcode as an artificial hiring bar, implying that it's far more common to use it than not IN HIRING. Plus, on an actual dev team, it's totally accurate to say no one gives a shit about leetcode hards except MAYBE as a meme. Or if, you know, they work there. In addition, pick any number of devs from any Big N and you'll see none who, as part of their day to day, give any fucks whatsoever about it. Oh, I guess if you're #3 on the scoreboard or something. Yeah. Maybe. So there's memes, employed by leetcode, and Top N scores on leetcode.
+
+Most importantly, however, OP's question was about imposter syndrome and handling the workload. Since, you know, they already have the damn job.
+
+My effort put into this now far exceeds the total sum of fucks ever given about a colleague's performance on leetcode hards, much less total concern about their ability to whiteboard the optimal solutions. Hint: it's not hard to exceed a number that is effectively zero. So let's go close with, my original answer was just as misleading as your reply was accurate.
+
+Nice straw man argument. "Almost no one" is misleading, that's all there is to it. I'd say a majority of high-paying companies will use some sort of critical thinking problem similar to leetcode to screen candidates.
+
+The straw man fallacy is based on refuting an argument that wasn't actually made. Coincidentally, you've now used that very same fallacy, twice in fact, when you argue that companies use it as part of the hiring process and then declare that my statement is misleading. I never said it wasn't used in hiring. I actually inferred that it was common in the hiring process, then I outright stated that it was common. I suppose inference would be a good example of critical thinking.
+
+As for my non-use of the straw man fallacy, I specifically addressed your statement 'top companies use it in hiring' by stating that Big N devs ALSO won't care. I even made up percentages and everything. I just didn't make up an argument you weren't actually using. FYI, in case you've forgotten, debating a point your opponent hasn't made is core to the particular fallacy you've attempted to use. My original statement in the context of OP's question, i.e. DAY TO DAY DEVELOPMENT WORK, is that whiteboarding leetcode hard optimal solutions from memory gets you zero fucks, flying or otherwise. Except for whatever situations I made up before. Then maybe you'll see someone give a damn. But no give a shits. And no fucks will be given either. Definitely no flying fucks. It just doesn't matter, and it's not a justification or reason for OP to feel like the startup isn't getting their money's worth out of the intern.
+
+One more time. Since you've now made the broader statement 'a majority of high-paying companies will use some sort of critical thinking problem similar to leetcode to screen candidates', I'll reply as follows:
+
+No shit, Sherlock. I'd even raise and just say majority of companies, no equivocation on pay scales. In other news, water is... something.
+
+The percentage of developers at the majority of companies who GIVE A FUCK about 'whiteboarding leetcode hard optimal solutions from memory' is effectively ZERO. What we DO give a fuck about is 1) can you learn, 2) do you have a work ethic, and glorious intangible #3) can you just ship that steaming pile of shit the business has been screaming about for months and we'll fix it in PROD. And maybe 4) coffee or redbull.
+
+Also, neener neener.
+
+too lazy to read whatever you're saying, but
+
+3)can you just ship that steaming pile of shit the business has been screaming about for months and we'll fix it in PROD
+where the fuck do you work, where you just ship to and fix things in prod?!
+
+Oh man, good one! Ad hominem, but what the hell, I'll give it a go and provide a list of possibilities.
+
+The Big N shortlist of 'we'll fix it in prod':
+
+Google - initial launch of G+, initial launch of Gmail, pretty much the initial rollout for anything NOT search?
+
+Microsoft - Windows Vista, Microsoft Teams, anything that came with Clippy
+
+Apple - Calendar Events in iOS 10 and iPhone 6.
+
+Lol I never attacked you, I am saying I cannot believe you work somewhere that ships to prod directly. I feel sorry for you.
+
+Actually, that is starting to become the norm. Look into the concept of Feature Toggles. The basic idea is you hide your new stuff behind a conditional so you can turn it on/off at will. This allows you to separate deployments from releases. In other words, you are able to deploy to production all the time without anyone noticing and then you flip the switch and suddenly the new version is released. There are anecdotes of companies like google deploying new code hundreds of times per day, but no one notices because they are hidden behind switches they currently have turned off.
+
+I imagine that like me you've worked in places where every time you've deployed to production it was this big massive thing where all sorts of new stuff was released at the same time. Months of development, QA, and all the other usual stuff that goes along with making a product. In that world, the thought of deploying straight to prod is frankly terrifying. You may have even had to do an overnight or two with a team of people just in case something went wrong and you had to fix it quick. Imagine if your rollback plan was "turn that switch off" instead of "OMG! What are we going to do?!? Quick, everyone start debugging stuff to figure out what is wrong!"
+
+The world is changing though and systems need to start figuring out how to deliver smaller things more frequently. I'm in the midst of re-architecting a system so it can start following this model more closely. Not sure how it will all shake out, but I can't see us being able to survive for much longer on 6 month release cycles. Far too much opportunity for a competitor to swoop in and steal a client that way.
+
+Good points, and pretty true. Especially your last few sentences re: time to market. I'm transitioning to a new project here shortly and one of key project goals is actually to cut release cycles down to 2 weeks. Staged transition, lots of supporting changes to process, CI/CD etc. And funny enough, I'd already raised up Feature Toggles as an effective option. The architecture SHOULD be in a good state to use the model, as-is, but we'll see.
+
+As an aside, I made a hyperbolic comment about 'ship it and we'll fix it in prod' that was... misinterpreted as straight to prod. However, if you haven't already heard about Etsy's CD process, definitely check it out. Don't have the links handy anymore but there are some good articles. Etsy and Netflix have CD processes that, quite frankly, appear impossible compared to the release cycle on most projects.
+
+Hey,
+
+Your last point really stuck out to me, I am basically taking this summer to review what I learned in my 2nd year of CS so I can interview well in the Fall and teh Spring for an internship next Summer, and I am in Los Angeles so I have an opportunity to work at some really top notch spots.
+
+Can I ask you, what should I actually be practicing based around the hard Leetcode questions/Data Struture and Algo topics?
+
+I have been reading about the different types of structures, like Red Black trees and kind of just building my knowledge of the subject, but feel like I am not actually practicing something consistently that I should when preparing for interviewing.
+
+Should I literally be going over different ways to make good hashing functions? Should I pick a handful of really tough Leetcode questions and just grind them until I better understand them?
+
+I am also reviewing much of my OOP notes, including inheritance, interfaces, and pattern design.
+
+I was told some companies really want you to kow the OOP principles which I feel quite confident in, but again feel like I could be studying something more helpful in me landing a good internship.
+
+Basically, if I just finished my Sophmore year having completed Data Structures and Algos as well, what should I be practicing regularly to interview well coming up in this next year (In your opinion)?
+
+Unfortunately most of that comment doesn't apply to your situation, you don't have the job yet. In fact, since you're on the west coast, you should probably do the opposite of most of my original comment. You still have to go through all the whiteboard bullshit.
+
+However, if you know where you're planning to apply, here's an idea. Get as much info as you can about your prospect's tech and figure out where they might be using a data structure/algo you've been grinding. And then implement the concept in a SMALL project. Preferably a small project extending the company's product.
+
+If you're looking at Facebook, for example, don't try to build a social networking app. Add a small feature to a menu, page, or something.
+
+Option #2, if you ARE looking at Google/Facebook/company that's released FOSS libraries or frameworks, build something with the library or framework.
+
+Whatever you build, you should also try to find style guides or engineering standards from your target company and use them in your project. If they've got a Github repo, clone it and look through the code. If it's out there for all eyes, it's more likely it toes the party line, as far as style goes.
+
+Awesome, I really appreciate the response!
+
+I am definitely going to at least apply to Google, I have a connection that works here in LA and definitely won't shy away from the tougher companies to get hired on at.
+
+That is a great idea about looking at something the company uses, and matching it up with a data structure or algo that I am familiarizing myself with.
+
+I actually was chatting with someone else today and they encouraged me to do a small side project as well, and said it would be a great way to work on something that isnt covered in my courses, and showcase my skillset. I really like your idea of using a framework or library from one of the companies I am applying to.
+
+Really appreciate the info again, I want to show my passion as well as knowledge for programming to these companies, but it can be a bit daunting when you don't know how best to do that. After speaking to you today I am really gung-ho about a small personal project, and feel like that is a great starting poitn for myself
+
+Am I supposed to learn everything on google as I go?
+
+Yes, that and stackoverflow
+
+Just ask them anything you are unclear about, thats what internships are for. No one is expecting you to be a rockstar dev, everyone learns on the job so dont get stressed out by stuff you know nothing about. As long as you are willing to read up and learn you will be fine
+
+As someone who manages our senior devs, I’d highly recommend that you give each confusing task a time-boxed best shot effort. (Maybe an hour or two.) In that time, do your best to figure out what you know and what you don’t. Then when you ask someone a question, be prepared to show your work.
+
+Seniors would much rather hear, “Hey, so I’m doing X and expecting Y, but I’m getting Z. Could you help me figure out why I’m getting Z and then how to get Y?” instead of, “What’s this?”
+
+Very good point. Really make an effort before walking up and asking someone something. Also, try to group questions in multiples of 2-3 so that you don't have to keep coming up to the person. This goes for a lot of other fields...
+
+You're an intern. It is part of everyone else's job to mentor you. If you don't know how to approach a problem, ask.
+
+That is a trade-off every developer/Devops has to understand and accept. You pay less for interns but you lose FT worker productivity because part of their job is now to mentor and train.
+
+You pay less for interns but you lose FT worker productivity because part of their job is now to mentor and train.
+
+And the company is hoping that you like them and want to work for them FT after school is done so you can become a FT employee with a very low amount of ramp-up needed.
+
+breaking things is ok, thats how you learn. just not on production
+
+You sound exactly like me, except I think I'm an even bigger noob than you are lol. I got an internship at a small startup through a connection, and certainly not through my skill set (leetcode, basic algos/data structures, can use a terminal, did a few school projects and some shitty personal projects and that's pretty much it). The first day I walked in to the office, I immediately realized I didn't know how to do anything. I had about 10 tasks assigned to me initially, but I had to spend the first week attempting to understand MySQL, CakePHP, Amazon S3, Redis, Docker/Docker-compose, HTTP protocols, and Bash, and how they structured their codebase around these technologies. It's been a week and all I've done is refactor by removing 5 blocks of code from a single controller script to remove some obsolete functionality and fix a few simple file upload bugs. The rest of the time I've been frantically going through the codebase and going through docs/stack overflow so I can figure out what the hell is going on. I still have pretty much no idea what's going on, and they're expecting me to handle integration testing using Jenkins CI and Selenium lol. Of course, I have absolutely no idea how I'm going to do this, so I'll be using Google and stack overflow.
+
+old thread, but I feel like I'm in the exact same position as you - though I'm using TypeScript with Angular, and Java with Spring. its my second day and ive literally been going through the codebase googling and still not understanding anything. how did you end up going at the end of the internship? did things get better or pretty much remain the same
+
+I actually did really well at the end, they offered me a part time position throughout the year but I ended up turning that down to pursue more research-oriented opportunities. Just keep plugging away, don't be afraid to own up to your mistakes, ask questions, and just keep trying even if you feel like you aren't making any day to day progress. After like a couple weeks to a month I was taking on all kinds of tasks.
+
+Thanks, thats really awesome to hear. Just finished my first week and its already getting a bit better :)
+
+No you’re not missing anything. Try your best for an hour or two with google to get started on your tasks but then be frequent with your questions and asking others to help. Asking a lot of questions is what you should be doing as an intern. That’s why you’re there
+
+I would say that’s pretty much how it works. Start googling yourself through those problems.
+
+My only piece of advice would be instead of saying: I have no idea what Angular is. I would say I have no idea what -let’s say- this angular component does; meaning trying to get really stuck with a particular problem rather than asking what a technology is. It will show you are trying :)
+
+The biggest difference between academic programming and enterprise programming is that in academia, you make small proof-of-concept projects, whereas in enterprise, everything is integrated. The difficulty of enterprise programming comes not from problem solving, but from systems integration.
+
+Some follow-up reading topics:
+
+Design patterns
+
+Service-oriented programming
+
+Microservices vs monoliths
+
+API architecture
+
+Network security
+
+You are not expected to know any of that. If any experienced dev joins that company they will also have to learn that stuff from existing employees. If you don't ask for help you will be in much bigger problem later. So whenever you are stuck ask for help immediately.
+
+Since you are an intern I don't think they will have a lot of expectations immediately.
+
+If there's one thing school's teaches you is how to learn. You will spend the rest of your life learning how to do your work.
+
+I am 6 months into my 8 month co-op (paid internship in Canada).
+
+Reflecting on what I knew on day 1, I'm shocked I got hired. I was useless. But then I googled. And I ran test classes. And I clicked buttons. And I broke shit (in the test servers!) and then fixed it, with help. And I asked a lot of questions.
+
+Now I'm training new interns and answering my colleagues questions. Am I taking over the manager's job? No. But am I a contributing member of a team now? Hell yes.
+
+Learning is what an internship is for.
+
+Yeah the situation you described sounds painfully normal although I wish more employers were better at training and onboarding new employees and interns.
+
+They might not all be aware of your skill level. Make sure they understand this is all stuff you're currently learning.
+
+Are you tasked with pushing new stuff to production or enhancing/changing things on production?
+
+You mentioned you're scared of touching the codebase so a good first question you could pose to your team or a mentor is to have them walking through the process of getting a small change from one of your projects up to production from your dev environment.
+
+They may realize that you're dev environment is not yet set up and then will give you the task of doing that for your first week.
+
+edit: Also ok to feel what you're feeling as every company is different so getting your dev environment and workflow started and running is always a good first step and usually unique to each company so it's a good question and task to get done first. Then, just take notes whether on paper in a notebook or on a note taking app that can sync to many devices.
+
+yet I still feel embarrassed to ask them questions as I feel like I am wasting their time
+
+You'll waste their time even more if you don't meet your targets or can't get your work done. They hired you knowing you had no experience, so they'll expect you to ask questions. That's how you learn.
+
+Am I supposed to learn everything on google as I go?
+
+...kinda, yeah. SWE is all about non-stop learning. Even senior devs spend most of their day with a browser open on Google/StackOverflow most of the time.
+
+All I've done all day is read documentation
+
+That's a start. Read the docs, make sure you understand them. Read through the code, and Google things that confuse you. Run the code, and make sure you understand how you get the output you get. And remember, if you're using version control (which you absolutely should be), then you can mess with the codebase to your heart's content without worrying about production code being broken. And you should mess with it, that's how you familiarise yourself with it.
+
+No matter how experienced you are, being presented with code you've never seen before and having to learn how it works is always daunting. It just takes time and effort. Your story is pretty much exactly how my first internship went, and I managed to learn a hell of a lot from that job.
+
+fng - you're the fucking new guy. Everyone is at some point, and you too will pass through this phase. Realize you had to do things right to get where you are and interns are people who get assigned tasks with a learning purpose that aligns to their career interests. You aren't supposed to know everything already, which is why you are doing the internship. Good luck and learn as much as you can!
+
+You're an intern relax. No one reasonable expects interns to know anything. Just do your best.
+
+Dude.. Learn.. You know, actually research how stuff works? Tech is probably the most GOLD profession there is for immediately available information - everything is there, you just have to find it, understand and place it into wider picture.
+
+I've been thrown straight into the deep end of developing a WHOLE FAT ASS WEB APP by myself and fucking love the freedom of learning everything about full stack engineering, designing it all and system architecting the flows/views. I've learnt more myself in a few days than in 2 years of doing CS.
+
+What you need to do is to come up with a list of items that you think you would need to do to complete this project , a work plan. Like ramp up on angular js etc, then read up on ssh etc. Then ask your manager to have a senior swe look at it.
+
+Ask the senior swe to suggest timeboxing each activity. They would be able to give you realistic estimates. Report that back to your manager.
+
+Managers are often not good at assigning work to new devs.
+
+Type your question and follow it by "stack" or "stackoverflow" in google. Most of the time your questions have already been asked/answered many times by other people. Just learn as much as you can, man. I doubt they even expect you to get that shit done in a reasonable amount of time, let alone to do it perfectly to the T. Learn angular on codecademy, shouldn't take more than a few days to get the basics. Learn how to ssh in an online tutorial (this'll literally take you about 5-10min to pick up). Same thing with the jab server thing, which seems to be some kind of js lib. See if you can make friends with one of the more senior devs and find one that's friendly/willing to help you out, then ask them stuff that you can't easily figure out on google.
+
+They certainly know I have no experience in dev work, yet I still feel embarrassed to ask them questions as I feel like I am wasting their time.
+
+This right here will get you sacked if you don't change your approach. Get over your ego and start asking questions. You said you're good at learning on the fly and crunch time, so step up and ask questions and learn.
+
+Am I supposed to learn everything on google as I go?
+
+Yeah pretty much. 10 years into my career I can say pretty safely that the majority of my knowledge has come from the internet while on the job. And that's fine. You're not meant to automatically know everything about everything. You're being paid because you have the smarts to realize the limits of your knowledge, and go out and teach yourself what you need to know, and solve problems in the process.
+
+Look at it the other way, if you're stuck on a problem for days and are too scared to ask for help, even though another engineer could spend 60 minutes with you to help you over your hurdle, that's incredibly unprofessional and a big waste of resource to your employer.
+
+Seriously, what you're feeling is normal. Relax, ask questions, google, learn, get your code reviewed by senior engineers. You'll be ok. You got the job because you can handle it.
+
+Am I supposed to learn everything on google as I go?
+
+Yes. Keep calm and carry on.
+
+I experienced something similar during my internship last summer. Although I didn't deal with it in the best way possible, I think what my professor says usually in lab meetings applies perfectly here: "The only stupid question is the one that is not asked." The worst part of imposter syndrome IMO is that you consider yourself to be stupid and this is somehow a secret from your employer, and you don't want to let it out. This is what I felt.
+
+But the reality is that they don't think you are. The best way to get over this I think, would be to ask people around you a gazillion questions, however stupid you think they sound in your head. Sometimes, you just don't know things, and it's not a sin. And I feel like if they get a feeling that you are enthusiastic about the project and are willing to do what it takes to learn things that are completely new to you, they'll like it, and start appreciating you more for it!! They're not going to hold it against you if you don't know something, but they first need to know that that's what's happening!
+
+I realized this a little late myself, and once I started asking senior people around me for help with stuff and for advice, they were actually really helpful, and since then my experience was amazing. You have to remember that everybody around you wants to see you succeed in your project, and are sometimes willing to go above and beyond to help you.
+
+The problem with me for example was that I wasn't confident about deep learning, which was basically what my project was centered around. After a couple of weeks of studying by myself, and not making too much progress, my mentor was nice enough to just corner me after lunch one day and ask me how I was doing, and he then spent like an hour or so after that trying to explain what he expected from me, and explaining how everything works. And then he told me to feel free to ping him whenever I was stuck and things were very smooth once I started doing that.
+
+The biggest thing you need to look for in an internship is to gain experience working on real world problems. The employers know that you are inexperienced, and that you need help finishing it. And they are on your side always. So take their help, have regular conversations with them and ask them for advice on best coding practices, and use it well. You'll start having fun once you do this, and it'll help you succeed surely.
+
+Dude you literally said you got hired for learning on the fly because youre good at it and so they handed you something you dont know and expect you to learn it on the fly. so just do it.
+
+Google is my friend at work.
+
+I feel like I should buy something big from them every so often for the sheer number of times they've saved my butt at work by helping me find the answer I was looking for in minutes.
+
+It's an internship, you literally can't have imposter syndrome. You are expected to know nothing.
+
+Finally figuring out that school is fucking worthless. Good job
+
+Fake it ‘til your make it, young Padawan.
+
+I still feel embarrassed to ask them questions as I feel like I am wasting their time
+
+Ahh nice, Rule #1 if you don't want to develop further and stay on the level you are now forever.

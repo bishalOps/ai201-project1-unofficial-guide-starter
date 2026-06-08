@@ -1,0 +1,271 @@
+SOURCE: r/cscareerquestions
+TITLE: Good side projects for junior developers with no SWE experience
+URL: https://www.reddit.com/r/cscareerquestions/comments/14qyteg/hiring_managers_what_are_some_good_side_projects/
+
+--- POST ---
+Basically title. There are so many tutorials on YouTube on building CRUD full stack applications. If you can elaborate more on the complexity or tech stack of the project that'll be helpful as well! Thanks!
+
+--- COMMENTS ---
+Not a hiring manger, but I was a college recruiter for 3ish years while a SWE.
+
+The best side project is a project the candidate can speak intelligently and passionately about.
+
+"Sooo... tell me about this calculator".
+
+"Well, I google'd good tutorials, one was a calculator, and I built it!"
+
+"What were come challenges with the project?"
+
+"Learning how to code."
+
+See how that isn't very impressive?
+
+It's not about how "complex" your project was. It's not about you picking some complex tech stack either.
+
+It's about you doing a project you personally found interesting. It's about you choosing the technology to accomplish that project based on the specific needs of your project. That's what's interesting to an interviewer.
+
+Why did you choose lambda over elastic beanstalk over k8s? Why did you choose Postgres over DynamoDB? What are the scaling bottlenecks? How could you scale this up/down? What would you change if you had infinite time to work on your project? What were the challenges with deciding how to code/implement/deploy your project?
+
+Those are the things that interest me. I want to see how your mind works. Blindly following a tutorial, no matter how complex, is not interesting. Intentionally choosing your infrastructure and tech stack for very specific reasons is what's impressive.
+
+This makes so much sense! Thanks for sharing! As someone who has been stuck doing tutorial level projects, how do you recommend branching out? Should I just explore on how to improve my project? Any resources are also appreciated!
+
+The way I've always approached projects is "idea first".
+
+I want to do [thing]. What that thing is doesn't matter much. When you've decided to do [thing], you start researching ways to do that specific thing, and what the various tradeoffs are for that. I use the tech that's best equipped to solve my [thing]. Even if that's a new stack. This is pretty reflective of the actual industry,
+
+You can talk an interview's ear off for hours with that approach.
+
+Compare that to "Tech first", which has the opposite effect. "I wanted to learn C++ so I google'd a tutorial in C++". There's literally 0 interesting questions to follow that project up with.
+
+Keep in mind any idea is an idea. You don't have to invent some novel billion dollar company. You can have the same idea as Uber but with a slight adjustment to it. You can have the same idea as Facebook but with a unique spin. Etc, etc, etc.
+
+While I generally agree, I think tech first also has its benefits.
+
+A thing I run into every now and then: I want to fuck around with tech stack xyz. Then either I also want to build [thing] or I have build [thing] before and it was interesting to build.
+
+I'll just blindly approach this thing with tech xyz. One the one hand I get to play around with the tech I wanted to test, on the other hand I find out the hard way why this stack is, or is not, good for this type of thing I want to build.
+
+Talking about what you found out about tech xyz while doing this also gives a lot of interesting topics to talk about.
+
+Think: ive build this.. XML Parser in C, Java and Haskell. Totally different perspectives and outcomes in each of those languages.
+
+Yeah but you still go idea first and then forced tech on it which is always more fun than tech first.
+
+I think that this is really good advice. I’ll try idea first as well. My last one was “I’m struggling with algorithms so I’ll learn some machine learning and try it.” And I always pick languages and databases that I’m not familiar with. I wouldn’t be equipped to have a good answer to why I picked Cassandra or MongoDB other than I hadn’t yet used them and if I can get more keywords on the resume that would be great.
+
+To me personally more important than the tech stack is choosing a project you're actually interested in and building it all the way (big bonus points if you deploy it and people use it). It doesn't need to appear complex but trivial/tutorial sounding projects should be avoided.
+
+When I was part of the hiring process this is exactly how we did our technical interview. It was t a coding challenge or test. It was just pull up a project you did and talk to us about it. We learned so much about a candidate just by talking about work they did. We found the candidates whom we hired via this approach were our best hires. We went from hiring duds to giga chads.
+
+I'm wondering how chatgpt assisted self taught programmers are faring in the job market? For instance, if a recruiter were to ask me about my programming interests. I'll probably be honest and say, programming always seemed difficult and it was always burning a hole in my IT resume.
+
+Last month I sat down and played around with python + Chatgpt. Chatgpt gave me a lot of good background, references, and foundational coding knowledge, but it often didn't produce the results I wanted.
+
+Whenever I tried to change the code of my "falling block game," for instance, it would outright delete entire segments of the code while implementing the changes I requested so I always had to double check my work when I ran the code and it failed. I had to go back and look to see where chatgpt messed up and often it was either a missing semi colon or an entire line just vanished and I had to rewrite again. Without chatgpt though I highly doubt I would be able to code most things from scratch
+
+I would not like to hear this story as a hiring manager (or a developer who might have to work with you)
+
+You wouldn’t. On a (more) anonymous platform like Reddit, you would get a more honest answer but then you fluff up your answer to have a more correct one for the interview. I guess my process before the interview is to write the answer with no filter and then optimize it.
+
+I'm not sure this can be fluffed up. It isn't incorrect, either.
+
+​
+
+Sidenote: bummer that we'd be more honest with strangers than with real people we're talking to.
+
+It is incorrect because it is less likely to get you the job. As a pessimistic, dispassionate, autistic person, I very much know the difference between an honest answer and a correct answer. Ideally, it would be both but that is hard to achieve without a lot of practice. Take for instance the question “why do you want this job?” The honest answer would be “I would love some money for some services that I don’t mind doing.” That is obviously an incorrect answer so you find something that you like about the company. If you can’t, you still make something up or you pretend that one of the core values of the company aligns with yours (if you even know what that is of course.). Take for instance “what made you apply for this position?” The honest answer is “I searched for full stack Developer in my area and this job was the fourth on the list.” That is obviously the incorrect answer so you play the game of picking a random line in the job description and spinning a story about it.
+
+For every single code sample, good, bad or indifferent, you can spin a story to make it look good. You in the universal sense. I am extremely bad at it. If I can have a interview where I didn’t use filter words and maintained the correct amount of eye contact, it would be a good interview. But that is an extremely low bar as every interview question is a trick question. I can rehearse answers for the ones that I think might be asked and then I get asked a off the wall question: “what is your favorite superhero?” I said Garfield and Snoopy and the interviewer thinks that I value laziness.
+
+I got a job once down the street from my house. I told them I didn’t want to walk any further than that to work and it looked like we’re starting a new business. Worked! Depends on the situation. :)
+
+I don’t think “I did stuff that I don’t really understand will you hire me” can get spun. But we can both have our own opinions. I was just trying to lightly note that maybe that story isn’t the one to be going for. ;)
+
+Are projects done mainly in JavaScript interesting? I've been working on a word processing thingy, like, when I was learning English I'd love to have such an app, but it wasn't a thing. So I am building it. It takes a book, analyses the words, looks what words from what language levels exist, looks at the words and compares them with most common words, throws a little test to the user and then spits up the words that the user perhaps should study. Also intend to add translation (English to English) and sentence usage.
+
+Mind you with AI I wonder how much longer people will even want to learn a new language but... I do have a passion for it... So, figured why not.
+
+That definitely sounds like such an awesome project idea! 10/10 would use it :D
+
+How do we get past the HR filter tho? Are side projects even considered by HR nowadays?
+
+For questions like why X over Y i.e postgres vs dynamodb, is a suitable answer just not that I am comfortable with X? because it looks like that question can become very complex e.g why X over A, B, C, D etc.
+
+More about the type of data i.e relational would be an acceptable answer really.
+
+Hiring managers actually expecting in-depth answers about different databases from someone who is just doing a side project in uni? At best that dude will regurgitate two or three differences that some comparison blog article mentioned or half an ACID definition his teacher said during the 1st year database course.
+
+I think that question would be to just to get the conversation going and try to find the limit of the knowledge they acquired during the interviewee project.
+
+I mean... I wouldn't necessarily hold it against you, but look at it as if you were working on the job.
+
+Is it acceptable to choose a technology for a professional project because it's what you're comfortable with, as opposed to it being the right technology for the job?
+
+It's not. If you do everything in DynamoDB because it's what you're comfortable with, when in fact a relational database would've suited your use case much better, that's a bad call that's going to cause your project tons of pain down the road.
+
+You don't have to have super in-depth knowledge of this stuff or anything. Some very light googling when you're deciding what kind of database you should use is enough. I'm not really looking for in-depth knowledge, especially if you have no work experience, I'm looking to see if you have the ability to research various approaches and make reasonable decisions.
+
+For a junior dev, absolutely I think that's reasonable. I'd even accept "because it's free", "it's what I'm most comfortable with", or "it has the best documentation for getting started."
+
+This might be true but, I’ve never encountered an interview where the interviewer will talk more than 5 minutes (3 of which they’re self-bragging) about their job / team and the rest it’s some code question found in a coding bank.
+
+sense! Thanks
+
+u know a lot for a recruiter, hatsoff to u.
+
+For once, what a W from a recruiter, god damn ! I wished that they all had your mentality.
+
+Sorry, you do not meet the minimum sitewide comment karma requirement of 10 to post a comment. This is comment karma exclusively, not post or overall karma nor karma on this subreddit alone. Please try again after you have acquired more karma. Please look at the rules page for more information.
+
+I am a bot, and this action was performed automatically. Please contact the moderators of this subreddit if you have any questions or concerns.
+
+Not a hiring manager but I have interviewed multiple people as a Software Engineer. I generally disregard things that are just clones of widely available Github starter projects.
+
+I ask the following questions:
+
+What is the problem that you were trying to solve
+What were the challenges that you faced
+If I ask you to start the side project from scratch today, what would you do differenctly
+
+My only problem i need to solve is that i dont have expierence or projects to put on my resume. Therefore i cant even apply anywhere
+
+/u/FrostyBeef made some really good points, and I won't repeat those, other than to underscore that following tutorials doesn't impress.
+
+Most project I see on resumes are what I'd call academic in nature. Either they're school projects or they might as well be. One thing I like to see (but is not required) is when someone is interested enough in their project to launch it and make it available to other people to use. Something that actually *can* be used.
+
+It takes says a lot about you and how you work that you can follow though enough to launch something, fix what breaks when users get to it, and iterate.
+
+I think this may have enabled candidates to stand out back in 2015 but since then the bar has risen and loads of CS students are making projects that can be used and that aren't school projects.
+
+The problem is, realistically, who can find an idea good enough that people will actually use, or it will make it big. Sure, that'll happen, but, there probably won't be 1000+ users. That does not mean the candidate is bad, if say, they are the only one that is using it no?
+
+It doesn't mean a candidate is bad. And you don't need thousands of users.
+
+If they can get some friends to try it out, that's something. If I can try it, that's something. Like I said, something that can be used. Most academic projects don't even realistically meet that qualification.
+
+And not another sudoku solver. A playable sudoku game is better than a sudoku solver.
+
+If you can make something that's useful, it's a great way to differentiate yourself. But it's not mandatory, and it's not the only way.
+
+A good side project won't. Someone on my team telling me they're friends with someone who would be great to work with and knows their stuff might.
+
+(Having the side project might give me something to ask about in the interview, though. Weak resume is better than no resume. You want some side projects, maybe volunteer work, maybe transferrable skills from other jobs, maybe undergrad awards, whatever differentiates you from others.)
+
+Not once has anybody ever mentioned my GitHub profile. The only time it ever came up was for me to go over one of my repositories instead of doing a take home because of time constraints.
+
+So you should do projects you feel you will learn something from.
+
+From the hiring side, I would say it’s only relevant if the side project is particularly impressive OR the candidate doesn’t have internship/any relevant work experience, which is the case OP is asking about. We need something to talk about in the interview and course work isn’t particularly interesting to talk about unless it’s larger projects.
+
+Some of the most crazy shit I've seen are
+
+Full 3D games in OpenGL with shadows, lighting, handles 10k objects, maintains 60FPS, crazy particle system, a full in-game editor using ImGui. I have a friend who did this, he got into Riot Games as a SWE after graduation. He was the only one out of 200 people who tried and got in.
+A portfolio website with WebGL where you navigate through the page by driving a car on the website and it's all in 3D. https://www.youtube.com/watch?v=gI_X6ekJFus
+There's also lots of basic apps like your Todo website and many more that averages 10-100k clicks a day.
+The biggest problem is that people watch all these tutorials and never ever expand on anything. Oh tutorial uses "useEffect" and "useState" for React? Alright I guess I'll just keep using those two hooks and never ever explore other state management libraries like Redux. Performance? Nah who needs it? My side project is small so I've never needed it! If I get asked about it I'll just say "I dunno".
+
+There's so much good projects you can do in JS alone... It's crazy. Not just websites but browser extensions, desktop apps using ElectronJS and many more.
+
+Like even something like a browser extension that does this
+
+Filter out comments on YouTube, like actually REMOVE their comment visually through HTML. Do the same for Reddit, you can block users but they will still show up as "blocked account". Hell, you can also filter out all those "Wow market is shit, fuck tech" repost every damn week.
+It would be so useful, I'm sure you'd get lots of users for it. You can also easily expand on this extension and expand your audience, make it so that you can hide "naughty" words or swap them for funny words. Shit = "poopoo", etc and many more.
+
+Basically make something that's not only unique but useful for general net users. A Todo list app sucks not just because it's a tutorial app but because there's already 3 of them online with each one offering different functionalities that you cannot compete with...
+
+Unless your To Do List Website is getting > 10k views a day, no one's going to give a shit. You either impress by the complexity of your project or by the popularity of it.
+
+Regarding the OpenGL project you talk about, did they code the physics system from scratch? I don’t think that is as challenging if they used a library, and physics engines are something that undergrads don’t really toy with too much.
+
+If I see a clone, calculator, todo list, or anything that can be copied off youtube in a few hours I just skip it. Anyone can make a twitter clone, its just CRUD after all. The impressive aspect of these products people clone is the scalability of the system; which clones just don't show. Anyone can read a tutorial on how to make a todo app; that doesn't show anything about how you can perform in a job.
+
+If you're banking on projects due to no experience/relevent education then you need a project that stands out, is super interesting, and something you can speak about as if your life depended on it.
+
+Edit: to clarify, I don't necessarily skip the resume itself, I just don't bother looking at the project to weigh against other candidates.
+
+I agree that it's good advice to not just copy the tutorial, but how would a college grad or even an entry level developer gain access to systems that require to be scaled?
+
+And thats exactly my point, they generally dont! Twitter by itself is completely unimpressive from an engineering standpoint. Their marketing was impressive; thats how they were able to take and hold so much market share. Their scalability was impressive; thats how they were able to handle millions of active users. The two most impressive challenges of the app are impossible to demonstrate with a clone.
+
+I'm not saying you have to make a side project that is highly scalable system built to handle that kind of usage; what I'm saying is you have to do something else to stand out if you want me to actually see your side project as anything other than padding out the word count of your resume. I can't tell you what that something is, but you can! By accurately and efficiently describing the challenges with bullet points on your resume.
+
+Isn't pretty much any application ever a CRUD application?
+
+C.R.U.D. - Can’t Really Use Dis
+
+A side project can be copied or improved by external help. Most of them are the usual, simple apps without any real users. I wouldn't base my decision on them.
+
+Interview performance, positive attitude, willingness and ability to learn are more important.
+
+If you can make a project you or someone are interested in and actually using it, then I would be happy to hear more: what problem did you solve, what solution options did you consider and how did you choose, what are some issues you or your users run into while using the service.
+
+You don't have to build something complex necessarily. Small projects are great too. In my experience, it's more about demonstrating what you learned and demonstrating concepts that are interesting to you. For example learning a particular language or computer science concept.
+
+I think it's more important that you can talk about what you built and why you built it that way. It should be fun and interesting!
+
+For new grads I value any kind of work experience. If you can hold a job at McDonald's for a few years I atleast know you can follow and understand basic instructions and workflows, as well as shop up consistently and on time. You'd be surprised how hard these qualities are.
+
+Isn’t any web application a crud app in a sense? You will always be performing those kind of operations on the database regardless what you build. In my opinion (I’m an unemployed grad so don’t take me too seriously here) it’s about building something that other people can use, not just another “student management system” from a youtube tutorial. It’s ok to make a crud app if it has an actual purpose and some extra functionality to it.
+
+The quality of your application should matter, does it look good? Is it optimised for different screen sizes? Did you actually write the code or copied and pasted it from the tutorial and called it yours? I feel like it’s fine to use a tutorial or an online guide to help yourself when you’re stuck but you’re not going to learn how to build stuff independently if you constantly follow tutorials.
+
+At this point I have a huge fatigue of tutorial exercises being claimed as "projects". It's okay to make a todo app based on a tutorial to learn programming, but please be honest about it and don't try to sell it as something you did on your own.
+
+Apart from that I think it doesn't matter what the project is, it matters how you talk about it.
+
+Volunteering at a code for America brigade
+
+Something hard in a technology not taught at university.
+
+One of the juniors I've hired has aspirations to be a game engine programmer and insists on writing it in C. We were able to have an in-depth discussion on arrays-of-structures vs. structure-of-arrays.
+
+Reading this, I though I was in web_dev, but now that I notice it’s /cscareerquestions - I’m surprised there’s so much talk about crud and web apps with users. I would have imagined more computer science related explorations. Are crud apps really what CS majors are showing on their resumes?
+
+Something created entirely from scratch, without tutorials.
+
+I mean how does that work? You can't remember everything and inevitably have to use tutorials.
+
+Your own idea/execution. Of course once you select frameworks you can use tutorials to learn how to apply them in your system.
+
+Sure, learning from tutorials is fine, but what you produce shouldn't be the result of one single tutorial.
+
+I think it's ok to use stack overflow for small details you want to achieve especially where you don't know the syntax, but something which is clearly lifted from a tutorial - no thanks.
+
+You need to consider what unique thing are you making or if you use some simple framework to get something on the screen I would say that 90% of the code has to be entirely created by you. The rest is the boring stuff that is necessary to show off your work.
+
+The reason I am interested in your side projects is because I am looking for people who are interested in coding. I don't want a boring 9-5 type at work who forgets everything about programming when the day ends. I am looking for coding enthusiasts. When people have interests outside school/work, it shows that (for example, in my free time I play with embedded technology and have a bunch of esp32 based sensors around the house). If the coding project is something boring/contrived, it's actually worse, because it demonstrates that you have no independent interest in programming.
+
+Mine was my capstone course project, if it’s not impressive enough in your eyes then add onto it yourself too
+
+Something full stack that is if sufficient complexity that I can be confident that you know how to learn
+
+When I was applying for my 1st job I did a relatively simple database in C that I could write and load from a file. It just completely demystified the pointers for me and now it's just basic stuff to me. Having a pointer of pointers of pointers and trying to save it to a file and reload it without fucking the indexing is a bit challenging for a recent grad.
+
+The best side projects are technically interesting and relevant to the industry you want to pursue. I'm a hiring manager in the video game industry. Your NodeJS web store using mongoDB isn't going to impress me. A polished Unreal project which shows some amount of technical capabilities beyond hooking together plugins and reading through tutorials is a lot more likely to get my attention.
+
+A solid relevant project definitely isn't enough to get past resume screening, but for intern / associate levels having something in games often puts candidates ahead of the competition. If trying to move from another industry, projects are a long shot given the current pool, but I do occasionally phone screen people with cool side projects and tangentially related professional work (especially low level C++ or non-game work done in game engines)
+
+Anything you can talk capably and enthusiastically about.
+
+I don't care what is built. I care more about how it's built. Anyone can build something and make it work. What makes an engineer a paid engineer is how they build and test it.
+
+agree with the comments about generic tutorial apps, those are useless.
+
+what i prefer is something you made that you made out of your own motivation because it was useful to you (or other people). Not saying this helped me get jobs, but, my side projects are all mini tools/calculators that help me theorycraft in the games i play better (yeah it's nerdy) but if i was hiring someone i'd think that someone who did this has weight cuz he used programming to actually help him(or others) do something better.
+
+here's an example: https://helltides.com/
+
+this is a site for a diablo 4 event. it has a timer that counts down toward the next event, and users can vote on where the next secret treasure spawn is. if you made something like this, even if it's far simpler than this, it shows that you enjoy programming and utilizing it.
+
+another simpler example: https://loa-todo.com/engrave
+
+this is a accessory planner for lost ark. there is no user interaction and doesn't even need any server side persistence. can be made completely client side. a ton of people use this. it's not complicated to make yet it's so useful. projects like this will get my attention.
+
+Really no one is going to look at your projects. Literally only once did a manager look at my GitHub, and it was just the GitHub Actions yml file.
+
+Just build something that seems interesting to you.
+
+Sorry, you do not meet the minimum sitewide comment karma requirement of 10 to post a comment. This is comment karma exclusively, not post or overall karma nor karma on this subreddit alone. Please try again after you have acquired more karma. Please look at the rules page for more information.
+
+I am a bot, and this action was performed automatically. Please contact the moderators of this subreddit if you have any questions or concerns.

@@ -1,0 +1,100 @@
+SOURCE: r/cscareerquestions
+TITLE: What to expect from a "behavioral interview"
+URL: https://www.reddit.com/r/cscareerquestions/comments/17fofv/what_to_expect_from_a_behavioral_interview/
+
+--- POST ---
+I have an interview coming up for a company I'd really like to work for. I made it through a technical interview and now I'm scheduled for another interview with the HR rep and a couple developers. The HR rep described it as a behavioral interview. Another person in the company told me it is questions like "the team runs into an issue with such and such, how do you handle it" I guess it shouldn't be too difficult but I've only ever worked with one other developer. What kind of questions might I expect? What are some common pitfalls when working with a development team?
+
+--- COMMENTS ---
+What I do for these is I just memorize 3-5 instances when I did something good with a team, went above and beyond, learned from a mistake, etc.
+
+Then you can just recall an instance when they ask you their "name a time when"-style questions.
+
+Then obviously just memorize and prepare to elaborate on your resume, and memorize a few strengths and weaknesses. Works every time.
+
+This is just the B.S. interview. Basically, it's for them to determin whether you are you a socially inept moron or not? ;)
+
+Questions like: "Can you name a time when you've had an employee that was particularly difficult to deal with? How did you resolve it?"
+
+A good answer would be something like "You know, in life I've encounter many people that are 'difficult to deal with'. There is always someone that has a bad day or a person who has a big ego, etc. etc. and how you handle that situation is basically a reflection of yourself.
+
+If a person is being problematic/innapropriate/rude to me I just realize that it's not about me; I find just remaining calm and not taking it personally often resolves the situation itself. Sometimes a person just needs to vent.
+
+However, it becomes an issue of setting boundaries in the long run. In a work environment it's important to have acuity to these volatile social dynamics. Being polite and let them know what you will stand for and what you won't is important. You are flexibl and tolerant but you won't be walked over. You are solution orientated and it is also important to know when you need to get someone else's advice on how to handle situations (like getting management involved or H.R.).
+
+In summary, I'm good at handling "challenging people": Customers, employees, etc. and I'm comfortable with my judgment when dealing in these social situations."
+
+If I was hiring you I'd like an answer like that.
+
+They might also ask something like "Can you give me an example of a manager that was micro managing you and how did you handle the sitaution?"
+
+You: "In one of my jobs I had a manager constantly asking what I'm doing and having a meeting everyday on how I am going to complete my tasks. I felt it very draining of my creativity. I felt my confidence deteriorating because I didn't feel she had the confidence in me such that I can manage my tasks and be self sufficient.
+
+I had a meeting with her and asked if I could set up an overall goal that needs to be achieved at the end of the week. That way we don't have to look at the steps at such a granular level. Then explain how this will be a good way to gauge your performance etc."
+
+Something like that...
+
+Basically all of these questions have a pattern. They will ask a socially awkward question that can arise in the workplace. If these scenarios are not handled in an intelligent and calm matter they can create huge problems within an organization. Having people that create problems can REALLY bung things up for EVERYONE in the team. This is the LAST thing they want is someone that will cause problems.
+
+Thanks for your response. Are there any particular sources of conflict that are unique to development teams?
+
+One of the MAIN conflicts can be about protocol and design process.
+
+If someone sees a severe problem the way something is being implemented there can be philosophical debate as to the way to solve it. It's important to be able to concede to the other person if you eventually see they were right. It is also important to know when to throw in the towel vs stand your ground.
+
+Another can be frustrating communication. Sometimes, people can be very bad at explaining what they want. Rather than become frustrated it's important to say things like "I'm sorry, I'm having a tuff time following you, can you explain further?"
+
+Always assume it is YOU who is the 'slow' one and not the other way around. This one guy I work with is ABSOLUTELY horrid at explaining things and on top of it all he is very condescending and arrogant. If I give in to him we would get into serious argument, I can't allow that to happen. So I solve this problem the following way:
+
+I bring a pad of paper and pen with me when I have to see him. I write down step by step what we are talking about. He likes to veer off on tangents and we get lost in the details (he often does so to intentionally confue thins for the purpose of being a jackass), so when I write them down and he wants to veer I say: "That's great and we can talk about that separately but let's come back to what we are discussing." then point to the latest fact I wrote down.
+
+Not only that, but if he wants to be frustrated and arrogant and try to mislead me I write it down. I then bring him with me to upper management and we sit down and discuss what I have documented (I write it right in front of his face).
+
+This way, we don't get into argument and he is held accountable for acting like a jackass (I take him to see the boss). This really changes his behaviour. I see he gets very pissed off, but he's like a rat stuck in a corner. He has to cooperate with me; he has no choice.
+
+So it's solutions like these that we want to see. It shows that I am calm and collected; however, I won't let someone's negative behaviour affect my work. I can only be pushed so far until it is up to the OTHER person to stop being a horses ass. But in the end it's ALWAYS about checking your ego and focusing on the goals. It's good personal growth anyways.
+
+I know I'm late to the discussion (but I was just searching through reddit for "behavioral interview" and found your very useful suggestions [thanks!]
+
+Regarding documenting verbal communication, do you write shorthand or just write really fast, or are good at summarizing a thought in a word or two? I often find it difficult to keep notes while talking or listening at the same time. Could you please share how you honed this skill or elaborate on it further?
+
+Writing while someone is talking is all about efficiency. Being concise is absolutely critical (if not obvious).
+
+Writing in a sort of 'code' is the key. Saying thing like 'bc' for 'because' or 'IFT' for 'it follows that'. Stuff like that.
+
+Also just write key concepts; use pictures when you can 'arrows' etc.
+
+I can only speak for interactive meetings amoung a very small group (4 at best). Don't be afraid to take charge. Tell someone to hold on a second while you write this down.
+
+Meetings are about getting shit done. It's not about just bantering back and forth. If you are not walking away from a meeting with concrete agendas, then you may has wasted time. So, if you have to stop someone to make sure you write down something clearly, then you are doing a good job.
+
+The BIGGEST key to this entire process is going to your desk immediately after the meeting is done and solidifying everything you just talked about. Take your notes and go through them and create your second draft (this is the draft that will make sense 3 weeks from now).
+
+There will be a lot of codes and pictures etc. that don't make much sense but they will trigger memories in your mind so you can write down a more detailed story.
+
+If you don't do this second draft you will look back at the notes you took in the meeting and they won't make ANY sense.
+
+So, in summary: Stop people from talking if you absolutely need to take more time to write. Immediately after the meeting, take you short hand notes and create long term notes.
+
+Hope that helps :)
+
+Well, exactly. That's why it's important to be honest and real with the interviewer. When you're sitting on the other side of the desk it's very easy for me to tell when someone is BS'ing me.
+
+If someone bungs up a question I really don't care, as long as they are being honest with me - I can deal with that, everyone has faults and makes mistakes; however, if someone is lying to me, that's where we have a problem.
+
+People should try not to have canned answers to questions. Think of an interview as a discussion. Just relate back to your past and speak your mind as it happens. There are no right or wrong answers, the interviewer just wants to gauge your personality.
+
+Haha well I dunno if I agree with that but okay. My BS radar is pretty acute. You can't bullshit a bullshitter.
+
+Haha well... In this profession you don't get a lot of talented actors in front of you... But your is taken.
+
+Count yourself lucky that you got the technical interview first - if you've moved past that, it means they like your skills. Places that do this shit first can get you round-filed by HR before anyone ever asks you a technical question.
+
+Development Manager
+If you've ever seen a dating gameshow on TV, it feels roughly like that. 'Bachelor number one, describe your perfect evening!' -- "Sorry you left 'snuggling' out of your answer, to the PIT OF FLAMES WITH YOU!"
+
+These interviews feel really superficial if they are done poorly. Swift3lade has some example questions which ask the applicant to recall specific circumstances, which is a good execution of the practice. However, the interviewer should realize you will not be able to recall a specific instance of 10 different types of work scenarios. I would encourage you to try your hardest before giving up as some some interviewers assume you are being evasive. Some interviewers also rate your response to each question and your overall score will determine your advancement to the next round (in which case a 0 would hurt a lot).
+
+I had one bad behavioral interview where I was asked 'what would I look for in a business partner?' I was pragmatic in my response and said something along the lines of 'Sales and marketing because cash flow is the primary determinant in the survival of small businesses.' After much back and forth with the interviewer restating the question, and me sticking to my answer, I found out she was actually looking for 'fuzzier' qualities like 'trust, and respect.' Not only was the question bad because the prompt was nonspecific, but the intended output was nonspecific and inapplicable as well. I guess they intended to match my list of things against whatever self-image they had of themselves to gauge fit, matching one arbitrary list with another; which is insane, but something you see on a dating gameshow.
+
+To prepare, it helps to have a brief narrative about yourself. Where you come from, what you can do, what you like to do, how you do it, and a few stories of past experiences that you can apply to a range of questions.

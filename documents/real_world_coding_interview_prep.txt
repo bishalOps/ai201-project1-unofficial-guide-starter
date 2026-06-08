@@ -1,0 +1,113 @@
+SOURCE: r/ExperiencedDevs
+TITLE: How to prepare for a real-world coding interview vs LeetCode
+URL: https://old.reddit.com/r/ExperiencedDevs/comments/1p2ew23/how_do_you_prepare_for_a_realworld_coding/
+
+--- POST ---
+I'm of the mind that real-world coding interviews don't need much preparation - you're just using your experience, and doing what you've learned on the job. *However*, I find myself in a rare situation where I actually have a lot of free time. So I figured I might as well be thorough and prepare how I can.
+
+Would I be better off just brushing up on system design principles, etc?
+
+--- COMMENTS ---
+It depends on the constraints of that "real-world" coding style interview. I recently prepared one such interview because I was tired of the number of AI-using cheaters we were seeing when we used a Leetcode style question.
+
+For my new question I ask candidates to initialize a project directory with a framework of their choice in advance, and once I give them the problem in the interview they're welcome to use any and all tools, AI assistance included. My advice to them would just be to spend time writing code within your flow and make sure you're familiar with your framework.
+
+Real-world problem might also mean system design. It might not permit AI assistance. There might be performance and optimization elements which would motivate deeper algorithms and data structure study.
+
+What do you really know about this interview?
+
+What did your best candidate do? How did they start their problem, what framework(s) did they choose, and what was the extent of the scope that you were asking them to build on the spot? a quick client/server with a middleman graph structure or just something like fastify? I'm curious what the senior level application process is like for companies. I'm enjoying where I'm at, so I have no reason to look.
+
+That's the beauty of these interviews, you can't "prepare", you just gotta be good at your job and then you'll ace them.
+
+In my opinion the only good coding interview if you want to find good engineers. All the leetcode ones just lead to hiring people who spent time studying ... well... leetcode, but not actually people who would be a good fit for a software engineering position.
+
+I fully agree with this. I guess I have this irrational fear that my skills will "atrophy" the more time I spend unemployed (I was laid off a month ago), and I need to do some busywork to stay sharp. It's a bit silly I know.
+
+They are almost always basically the same. The real world one is a leet code problem with a narrative (based on recent interviews)
+
+For realworld interviews I just prep by walking through a couple of past problems I solved and how I approached them and if I’m worried about rambling I’ll have interviewcoder open during the call to keep my structure clean when explaining tradeoffs
+
+Honestly, in my experience these are significantly more difficult than traditional leetcode interviews. Brush up on concurrency patterns. A lot of my “real world” rounds have been very hard concurrency problems
+
+you're just using your experience, and doing what you've learned on the job
+
+Yeah, good luck with that - especially in the current market. Let's say, last time you worked with Clean architecture and some NittyFramework 3 years ago, and they are required for the position you're interviewing. And during the interview you're usually not allowed to use google or ChatGPT. Unless you have an exceptional memory you will fail miserably.
+
+There are some basics for my position which I refresh constantly and I also look at the position description and required skills to prepare for the interview. The IT world is not in the best state right now when it comes to the job search, and the job description will contain so many technologies that there are high change you have no experience with some of them. But they will still expect a unicorn.
+
+Yesterday i was getting talked about a job offer by the HR person, they use java,node, angular, c#, python and SQL. I told the person that I don't use angular in particular and I usually Google/ai when I need to fix something in a framework only language I don't use someday to day. The pre-interview ended here.
+
+And this was a local job, it's not like I was competing in a national level unlike a lot of remote jobs.
+
+Yeah everywhere expects you to be an expert in their exact stack. It’s so tiring. I used React for 3 years at the start of my career and I was pretty decent at it — back when they still used class components up until the beginning of hooks. Now, I’m working on a Next app for a school project and I feel like I’m starting from square one. I can figure it out, but if I saw this in an interview for the first time, I’d question what job I applied for. It looks so different than I remember.
+
+I'm of the mind that real-world coding interviews don't need much preparation - you're just using your experience, and doing what you've learned on the job
+
+There are a lot of variations of the technical assessment, and often its not closely related to what you do on the job. I just had a TicTacToe assessment, which I've solved many times - just not recently. There's some syntax used that I just dont use normally in my daily work, so I didn't pass because I spent too much time debugging something minor, that 'should have worked'. I looked it up later and I was just slightly off. This was a timed assessment, no interviewer, CoderPad. Limited intellisense features.
+
+I find myself in a rare situation where I actually have a lot of free time.
+
+if you have a lot of free time, I'd say practice a lot of random, smaller exercises that really test your DSA knowledge, test how well you understand your Array & Object methods. Practice just random simple exercises that, when you see the question, you've done it before, it's something any dev at your skill level should know, and you write it out with little to no help.
+
+Because you never know what you're gonna get in the assessment. Save system design for later, you have to have enough problem solving practice outside of the context of your work, to be prepared.
+
+So, for example, the last handful of assessments i've had, each for an FE role:
+
+TicTacToe class def with variable grid size
+determine if string contains balanced parenthesis
+series of JS questions handling mock article data, each question increasing in difficulty
+take mock response data and render in a small React app as a bar chart
+traverse through a file system and custom log output of each level
+And so, these should be relatively easy, they're actually for Sr roles - Minus the bar chart, i've done these exercises before. My best guess of what they're testing for:
+
+(in Typescript) define a class and build out the methods
+simple solution for simple problem
+how well you handle data, how well do you know your language
+can you render responsive UI with dynamic data response
+recursion
+The ones in which I over-prepare are the ones that I actually do the least well on, because when they present the question to you it's like a huge curveball
+
+TLDR, if someone put a coding challenge of reasonable difficulty in front of you, that a worthy candidate should be able to solve within an hour - do you know your language well enough and can you demonstrate that as you code out your solution
+
+I'm half joking here...
+
+Hire someone to give you programming problems, and then try to solve them while they ask you questions.
+
+Actually, that could be a good interview prep business.
+
+Every interview cycle I spend a little time doing easy and medium leetcode problems and build a toy app like a todo list or whatever, to prepare for this kind of stuff.
+
+Most coding you do at work involves building on top of an existing stack where you know the ins-and-outs and are making relatively minor changes. I really can't just jump in to a blank IDE and start writing code from scratch on any given day, even though that's what interviews expect. So I practice specifically doing that part until I'm comfortable enough that I can do it during an interview.
+
+It might depend on the role you are going for, but if it were me I would just do a private project. Remind yourself how much fun it is to code something. Perhaps learn something at the same time. Practise and sharpen the skills and feel confident about them and perhaps have something interesting to talk about in interviews if the subject comes up.
+
+The point of these interviews is to assess your capabilities and experience. The best way to pass them is to have spent time programming and solving problems. Leetcode is a pretty good way of getting practice but ideally you will have built some larger systems, worked on a team and had to read and interact with code you didn't write and formed some opinions about what good and bad programming styles look like
+
+I do real world tests. Given my team is doing rpa, I ask questions on state machines, regex, parallelism and advanced scheduling. None of these are supposed to be difficult as these are mundane aspects of rpa, but it does an excellent job of filtering out the bs'ers. Hardest part is the 1 hour time limit. Someone who really knows their stuff will complete it with few errors. But those that haven't lived rpa for a couple years will run out of time and make lots of mistakes.
+
+What helped me in such interviews:
+
+Treat it as a pairing session where you’re actually collaborating with your peers. Think out loud, contemplate on decisions, and experiment. Also, I’ve found that starting with some light DDD works really well. For example, start immediately mapping the core domain models, their properties, and their relationships - in plain English before even starting to implement anything. It really helps set the scene and build a shared language of the problem space.
+
+I avoid both and start my own company.
+
+learn to talk out loud as what is going on in your head. be comfortable using printf for debugging. and ask questions often
+
+these real-world interviews always mess with me way more than leetcode. it’s like my brain works fine alone but once someone’s watching, even simple stuff feels harder. mock-style runs helped a bit, mostly just getting used to talking through messy thoughts. i’ve tried a few tools too and messed around with ShadeCoder mainly to simulate that pressure and keep my reasoning flow from falling apart. honestly just having something there while practicing made the whole thing feel a little less overwhelming.
+
+Lately my interviews haven’t looked much like classic LeetCode puzzles. They’ve been more along the lines of “here’s some input, build a data structure or helper that behaves correctly”, things like an in-memory store, a BankHelper, or a small API-style abstraction with edge cases and tests.
+
+Because of that, I stopped grinding random LC problems and instead built a set of ~20 practical challenges that mirror what I’m actually seeing. Stuff like sliding windows, maps, queues, but applied to realistic problems. Each challenge has tests, and my goal is to make them pass cleanly. I use Cursor as a pair-programming tool, but I’m still driving the logic and decisions.
+
+It’s felt much closer to real work and has helped more in interviews than memorizing tricks. LC is still useful for patterns, but for me, building small, testable systems has been more aligned with what companies are asking lately.
+
+What does "real world" mean?
+
+Probably worth figuring out which tech stack they're going to quiz you on, and learn as much trivia as you can about it.
+
+The skills for interviewing and doing the job are pretty different imo
+
+You should do a rigorous two week interview esque training with LC (this should be the easier thing to ramp up on), System Design and arch (this is more core to the job requirements), and general information about what the team is building + industry standard practices for that
+
+Having done this recently, with a full time job - i needed about a month to go from zero to interview ready

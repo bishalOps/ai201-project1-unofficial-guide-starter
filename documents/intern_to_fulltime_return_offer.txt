@@ -1,0 +1,167 @@
+SOURCE: r/csMajors
+TITLE: How to get a return offer?
+URL: https://www.reddit.com/r/csMajors/comments/1cszspb/how_to_get_a_return_offer/
+
+--- POST ---
+Basically the title.
+
+I am very proud and excited to be an SWE intern at a bank you've probably heard of. I don't start for a couple weeks, but can someone suggest some knowledge that may be helpful for an intern to get a return offer? There are about 25 interns in my location and I have heard they are pretty generous with return offers, but I'm still very nervous. I know i belong there but I really want to earn a return offer. Any hard skills like github, springboot, testing or soft skills like networking and how to build good relationship with coworkers. Any advice would be greatly appreciated thank you!
+
+--- COMMENTS ---
+As a 2x return offer coaster, I got yall.
+
+Communicate to overcommunicate. #1 reason interns don’t finish their projects is cuz of blockers that could’ve been solved in a 30 min call w a ft engineer.
+
+Meet with your manager and/or mentor consistently, minimum once a week. Ensures you’re on track, and if you’re on track that leaves time for bonding with said mentor/manager on a more personal level. They should become your friend. People want to work with their friends.
+
+Network not only with your immediate team and manager, but others as well mainly adjacent teams. As long as you are likable managers are happy to reach out to others that are working on things you’re interested in. Even if you aren’t interested it’s good to acquaint yourself with as many (ideally important) people in your org. The bigger (positive) social impact you leave the easier it is to imagine you returning.
+
+Finish your project. Self explanatory.
+
+Sure, but the “networking” can be as simple as grabbing lunch with them. I had lunch with someone new from my org atleast once a week. I think establishing yourself socially is a massively underrated skill that’s not talked about in this sub. Very low effort with high potential reward
+
+hey loved your writeups, but as a stereotypical cs major with subpar social skills,
+
+how should I 'bond' with my mentor in a personal way while still being professional? also what's the simplest way to become likable and leaving a good social impact in your experience?
+
+Not necessarily true. Depends on the team and setup. Experience from another big bank, whenever we had interns our feedback as engineers was a core part of their overall feedback.
+
+I would replace “overcommunicate” with “take initiative and do not be afraid to communicate”.
+
+Good job, friend, you're killing it. This is incredibly helpful, things I can note and remember to do and check off throughout my time there. I can't wait and thank you!
+
+Congratulations and good luck
+
+For point 2, how do we make sure we’re not annoying them?
+
+Don’t be annoying
+
+there will always be something to be anxious about until I'm retired with a cigar in between my fingers staring at a sunset sitting on a pile of moolahh
+
+Stressed about kids not calling you
+
+Oh yea if I get a return offer I’ll stress about not making enough or getting laid off
+
+Be productive and pleasant to work with. Don't expect hand holding.
+
+Will do, thanks!
+
+Same situation here, I’ve been told be really easy to get along with but don’t be too kiss-ass. Have fun and make a good impression!
+
+Makes sense, good luck! 💪🏼
+
+Complete your project early and get other work done
+
+Learn how to leverage mentorship without asking for help on everything
+
+Try to have high visibility on the work you do
+
+Some of that might require more than 40 hours a week but it’ll save you hundreds of hours of recruiting in the future so it’s worth it
+
+Great advice, thank you! Do you think there will be a good way to make sure I'm on track to finish my project and/or making good progress? Should I ask for a list of milestones so to speak or are there typically timely goals?
+
+They usually give you a timeline. Try to get 2 weeks ahead of time
+
+Good luck at your internship and don’t forget to have fun and make friends with the other interns! It’s a lifelong memory you’ll treasure later when you enter the corporate world. :)
+
+Thank you :) I'm super duper excited !
+
+Get your shit done first. Work as hard as you can so you can have time to network. Then be able to present your work properly to the leadership team or your full-time team members. Schedule 1:1 lunches with people in the company whose work you think is interesting (in my company some interns that don’t get hired on their original teams will be recommended for other teams if those managers found their work impactful). And most importantly, be nice to everyone you meet - you never know who knows who and who they can connect you with.
+
+Very helpful thank you. Do you think those 1:1s get noticed by those that determine a return offer? Or is it mainly for more connections or should I stick with adjacent teams and manager/mentor? What kind of things should I talk about?
+
+I've given this advice before but pick your head up every once in a while. Look around. Figure out what parts of the business interest you and meet with the folks in the org who do that. It might not even be other devs.
+
+Take note of how the business operates at a broader level, and ask yourself: "If I were to own this business, what experience would I need to gain? What skills would I need to acquire? What's the simplest version of this business that I could start today?" Not many people think this way and end up on the hamster wheel for their entire life. Don't be that person. You'll end up unhappy and jaded.
+
+Be a sponge in every way: Learn the tools inside and out. Learn the org inside and out. Learn your manager inside and out. Don't just stay home on the weekends. Go out and meet with coworkers outside of work.
+
+Track your results: Every time you contribute to a positive result for the company, make a note of it and put it on your resume. Quantifiable results are extremely important.
+
+Also, keep in mind that massive company internships are a totally different ballgame compared to startups. When you play the big company game, usually your focus is "how do I get better at programming? how do I move up? How do I get paid more?" whereas working at a startup, there's more of a "How can I make an impact on the world? What cool shit can I build? How are customers impacted by what I'm doing?"-type of vibe.
+
+I'll also say, don't rest on just this one opportunity. The full-time offer may not happen in the end, so hedge your bets.
+
+Lastly, have fun! College and internships are the most fun you can have with the least amount of responsibility. Take risks. Fuck up in small ways (errors of action only, not inaction). Always be learning.
+
+Good luck!
+
+VERY GOOD ADVICE!!!
+
+At the end of the day, soak up as much knowledge as you can and be able to document your achievements in the 3 mos time period no matter how big nor small
+
+Fantastic advice! Taking notes vigorously
+
+Just be likeable, get your tasks done, take initiative to get help or to learn/try new things. Just make yourself legit useful to those around you.
+
+People are busy in banks. Make it easy for us to help you out by communicating clearly and confidently.
+
+working hard, doing projects, etc. are all great advice but I’d also say that once you build rapport with your manager, spend even 10-15 minutes in a sync to discuss your career / learning and development. it’s as simple as expressing how much you’ve learned on the team and that you’re very interested in returning because you love x, y,z about the industry / company, and if that’s a possibility.
+
+the worst your manager can do is say no or that they’re not sure yet. but the best advice i’ve gotten from my mentor is that if you don’t ask, you don’t receive. your manager can’t read your mind and could very well assume you have something else lined up. obviously performing well and networking and being easy to work with / train is a prerequisite to this convo. best of luck!!
+
+look your manager straight in the eyes, give him a firm handshake, and ask for a return offer on your first day in the office
+
+whats the success rate on this typa thing
+
+depends on how firm your handshake is
+
+Get people to like you. Solve problems. Be the go to person. Same as any industry.
+
+As an intern they're basically just evaluating you on your ability to complete designated tasks and your personality. Work hard and try to make your intern lead's life as easy as possible. Try to figure out things on your own but ask questions if you're really stuck or can't find the answer online.
+
+Just focus on working hard and being a pleasant person to work with and you will be fine.
+
+Who is the best person to ask if I do get stuck? My manager? mentor? ft engineers? other interns?
+
+Thank you, I will do my best!
+
+I am at the same situation today, I was wondering who you asked to help. Thank you!
+
+All the ft engineers ended up sitting in the row next to me. My intern team and I were leaning over the cubicle walls every day asking them questions. There was also a fte who was in the intern class the prior year who was always willing to help. Otherwise I would ask my manager at our DSUs
+
+Don’t worry about it. Attend all the social events, especially anything where upper management is present. Be active at the site (all the on site events, special interest groups etc). Take part in the group projects and presentations that should be a part of the internship. You won’t have any issue getting a return offer.
+
+Hi OP, as a former intern from 2022 it is really company dependent. Best I can say is pray they’re not laying off people as soon as you’re done with your internship.
+
+Performance wise: just do your best and don’t annoy your supervisor too much. Be easy to work with and do your deliverables on time. Talk to your supervisor about what you’d like to do, career path/opportunities and possibilities of a return offer EARLY.
+
+Good luck!
+
+Awesome, thank you! Any chance you want to share some talking points for that chat with my advisor !?
+
+If you have weekly one-on-ones, thats a good place to bring it up. People generally want you to continue as a fulltime because they already know you can work. So just talk about it like normal. Other than that, you could slack them out of the blue when you know they’re not busy
+
+So I don’t have experience like you as I just straight got an offer without any internship, but I personally think that being nice to work with is as important or even more so than knowing everything there is to know. If you have willingness to learn and you are progressing and improving visibly, I would believe you can catch up with all that knowledge.
+
+But if you are AH, then I don’t want to work with you.
+
+But that also really depends on the work environment and all that. Different people will prioritize different things.
+
+This article may help: https://open.substack.com/pub/karthiksubramanian/p/making-the-most-out-of-your-software?utm_source=share&utm_medium=android&r=18oruz
+
+Looks great! I will look through it, thank you
+
+I read through the article, exactly what I'm looking for! Super helpful, thanks again
+
+Does anyone know if you get a return offer in the last weeks of your internship or after I’m also interning this summer at a large bank and it’ll be my first internship so I don’t really know how that works, as well as bonuses do I have to pay that back eventually?
+
+Hi, this is also my first internship. They let us know that the final thoughts and return offer discussion will take place the last week of the internship. I also do not believe bonuses have to be paid back (at least where I am). Good luck!
+
+Hey, did you end up getting that return offer? If so, do you have some advice or hindsights on your intership for future prospects? That would be very appreciated.
+
+Hi! I actually did get a RO. The most important thing is to be easy and nice to work with. I saw people get return offers that weren't as technically gifted as others who didn't get ROs. This could mean talking to your boss and asking them questions as well as people you don't work with directly. Say hi and good morning. Also go to any and all outings that you're invited too. And just get ahead on work. First, be a day ahead on work, then a week, then two weeks. And of course, do your best to finish your project on time (early would be preferred). Lmk if you have any other questions. Good luck!
+
+Being nice and pleasant can really help.
+
+Will do, thanks!
+
+"I know I belong there" yet the internship hasn't even started yet haha
+
+They gave me an offer, because (wait for it) I belong there.
+
+Be excited for the offer but wait for it you know nothing. Don't be naïve.
+
+Thanks for the input. I understand there's a lot to learn and I'm excited to dive in. I’m proud of the hard work that got me this opportunity, and I’m committed to continuing that effort during my internship. Constructive advice on how to make the most of it is always welcome.
+
+I'm only trying to say that going in with an open mind ready to learn and make the most of it is the way to go, but for you to say you know you belong there without being there even a day yet is extreme and likely a delusional/unproductive frame of mind. It can also lead you to have confirmation bias your whole experience which will only hurt down the road.

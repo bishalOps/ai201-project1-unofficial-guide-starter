@@ -1,0 +1,86 @@
+SOURCE: r/cscareerquestions
+TITLE: Negotiating return offer or learning to accept
+URL: https://old.reddit.com/r/cscareerquestions/comments/9dd0yb/negotiating_return_offer_or_learning_to_accept/
+
+--- POST ---
+I just finished interning at a Big 4 this summer and was asked to return full time.
+
+The offer is competitive and we've been told that return offers are standardized and are non-negotiable.
+
+The common advice is to always ask for more, and I can't help shake the feeling that I might be leaving money on the table.
+
+I have interviews lined up with companies that might be able to match my current offer, but honestly, I like the company from which I have an offer, and I don't feel right about interviewing with other companies just to create leverage.
+
+Additionally, I only have two more weeks to respond to my offer (no extensions), so I do not have enough time to get through interviews.
+
+If I want to try negotiating, would mentioning some of the upcoming interviews be worth it?
+
+Try a "I'll sign right away if we can increase my base by $X"? How do I justify X without any counter offer?
+
+Should I just let it go and accept the offer as is?
+
+--- COMMENTS ---
+Nothing wrong with taking a sure thing for a couple of years, then moving up.
+
+Generally, you should negotiate offers because as you say, leaving money on the table. However, if you've been told multiple times that return offers are non-negotiable, then it's best to just accept the offer. For example, Amazon (at least in Canada) gives non-negotiable offers.
+
+Its your first job out of college what is your leverage?
+
+Accept the offer, you sound like you like it as is anyway and you’re hoping to negotiate over a few thousand bucks. Not to mention they said its non-negotiable.
+
+You dont have to negotiate every offer, especially if its a fair offer. Not to mention you said its a non negotiable offer.
+
+I can't help shake the feeling that I might be leaving money on the table.
+
+You won't shake this feeling ever. My first offer was 15 years ago, and I still remember my feeble negotiation at that time. I wish I had aimed higher. If you don't try, you'll remember not trying your whole career.
+
+How do I justify X without any counter offer?
+
+Because you'll DEFINITELY accept $Current + $X, and you only MIGHT accept $Current.
+
+Because you want it.
+
+Should I just let it go and accept the offer as is?
+
+No.
+
+Take a stiff drink and make the call / send the e-mail / etc.
+
+Here's some tips:
+
+They've already made the decision to hire you. They won't rescind it if you negotiate. There's only upside for you.
+This is a big 4 so they may have built in a negotiated range into your offer. They may be anticipating your counter and are already prepared to go higher.
+Companies have all sorts of tactics to nail down new grads. These include exploding offers, early offers, "standard" offers, etc. Realize that you are being (mildly?) manipulated and what you are feeling is what they WANT you to feel.
+Asking for more and being turned down is a better outcome than not asking, because you won't be wondering if you left money on the table.
+Just ask for more dammit. You don't have to be pushy and you don't need justification and it doesn't need to be long.
+Here's some phrases you can try:
+
+"This is a strong offer. I think we're almost there. If you can bring it up to $X I'll definitely accept."
+
+"Thanks, this offer looks really strong. However there's a few more options I'm still exploring. Can you do $X? That would be enough for me to decide to join ThisFaang immediately."
+
+Good luck!
+
+Negotiation is about leverage and position. What reason are you providing for them to increase the offer?
+
+Given it’s a new grad position, you have extra bad leverage because your choice is between the offer and no job.
+
+You need other better offers for them to match in order to drive up the offer.
+
+Should I just let it go and accept the offer as is?
+
+How satisfied are you with the offer? Do you feel as though it's uncompetive, or are you happy with it?
+
+Only do if you have competing offers.
+
+Just a heads up, from what Ive heard from friends, it’s going to be extremely difficult bumping up your base salary as New Grad Big N. Focus on increasing your signing bonus or RSUs - those are much more malleable.
+
+Maybe if you don't feel comfortable negotiating salary ask for a larger starting bonus or more PTO? These are things that might be seen as reasonable accommodations without making you look greedy. You can justify why both would be beneficial to you (i.e. starting bonus for getting relocated and set up where ever you're going, PTO because you want to maintain a healthy work life balance and want some time to be able to travel, etc..) and companies probably won't mind doing these things for you nearly as much as raising your salary.
+
+Pretty sure things like PTO are standard in many companies; I don't really get all of this advice about negotiating for more PTO when employment manuals, or even publicly-facing websites of the company, often explicitly list how many days of PTO each employee gets based on the years of service. Is that really still negotiable nonetheless, or template-based advice?!
+
+It can be depending on the company. Some companies might not but I've personally known people who have successfully negotiated more pto for themselves.
+
+based on the years of service
+
+I've negotiated this part in the past (although in that case it was years of experience, so it was about which previous jobs counted as experience).

@@ -1,0 +1,330 @@
+SOURCE: r/datascience
+TITLE: Help choosing between two job offers
+URL: https://www.reddit.com/r/datascience/comments/1gxm6nh/help_choosing_between_two_job_offers/
+
+--- POST ---
+Hello everyone, I’m a recent graduate (September 2024) with a background in statistics, and I’ve been applying for jobs for the past three months. After countless applications and rejections, I’ve finally received two offers but seeing my luck they came two days apart, and I’m unsure which to choose.
+
+1/ AI Engineer (Fully Remote): This role focuses on building large language models (LLMs). It's more of a technical role.
+
+2/ Marketing Scientist (Office-based): This involves applying data analytics to marketing-related problems focusing on regression models. It's more of a client facing role.
+
+While my background is in statistics, I’ve done several internships and projects in data science. I’m leaning toward the AI engineer role mainly because the title and experience seem to offer better future growth opportunities. However, I’m concerned about the fully remote aspect because i'm young and value in-person interactions, like building relationships with colleagues and being part of a workplace community.
+
+Does anyone have experience in similar roles or faced a similar dilemma? Any advice would be greatly appreciated!
+
+EDIT: I don’t understand the downvotes I’m getting when I’m just asking for advice from experienced people as I try to land my first job in a field I’m passionate about. For context, I’m not US-based, so I hope that clarifies some things. I have an engineering degree in statistics and modeling, which in my country involves two years of pre-engineering studies followed by three years of specialization in engineering. This is typically the required level for junior engineering roles here, while more senior positions usually require a master’s or PhD.
+
+--- COMMENTS ---
+What is your long-term career goal? To become an LLM Engineer or to acquire domain knowledge in marketing science?
+
+The LLM role may sound exciting but you should apply caution before choosing this role because a lot of LLM applications in industry are not very impactful to business revenue. You should make sure that this role contributes $$ to the company. Otherwise, you may face layoff risk with this role.
+
+The Marketing Scientist role seems more interesting because this is a mature domain for data science. You will always find a job in this domain and it contributes to revenue for companies. If you’re optimizing for career stability and impact, this is the best option.
+
+Another thing to consider is the health of both companies. Are they startups or mature companies?
+
+Thank you for your insight!
+
+To answer your question, I’m still figuring out my long-term career goal. I’m excited about LLMs, but I’m also concerned whether it’s just a trend or something that will remain relevant in the long term. I’m wondering if focusing on simpler, more timeless models might be better.
+
+The LLM role is at a rapidly growing startup with an office abroad, but the marketing role is at a well-known company in my country.
+
+You’re welcome. You’ve done an incredible job getting these offers given the difficult job market. Congrats!
+
+It is okay to not have a long-term goal early in your career. You will figure things as you advance.
+
+I think LLMs are here to stay. A lot of LLM products are now part of our everyday lives (look at ChatGPT). However, I predict that the hype will reduce in the next few years when people realize that most LLM projects drive negative ROI and investors move on to the next big hype. Remember that just 2 years ago, crypto had the biggest hype in tech. So, you need to figure out whether this LLM role is the type of role that will be made redundant when the hype goes away. It is also likely that you can use this role as a stepping stone to better LLM roles. Also, since this role is at a startup, you should make sure they have enough funding for the next few years to reduce chances of layoff.
+
+If I were in your shoes, I will pick the Marketing Scientist role because the company is more stable and the domain is mature (+ more impactful). After getting 2-3 YOE, I can reassess whether I want to continue in the marketing domain or try a new domain. You can also explore LLM projects in marketing science if you’re interesting in working on LLMs.
+
+Best of luck in whatever decision you make.
+
+Thank you so much for your kind and encouraging words!
+
+You’re absolutely right about the crypto comparison, it's a great point.
+
+I really appreciate the time you took to share your perspective, it’s incredibly helpful !
+
+I am nearly exactly in your position and I would go the market scientist roll too. Seems much easier to pivot into new rolls that way.
+
+Thank you for sharing your experience! It’s reassuring to hear that you’re in a similar position and would choose the Marketing Scientist role as well. This is definitely helping me gain more clarity as I weigh my options. Good luck with your decision too!
+
+It sounds like you're people focused, so I might say marketing. data analytics is relevant but you need to know an industry.
+
+So marketing is everywhere and ties to real world results. LLMs are highly technical and sometimes don't even get adopted.
+
+Marketing is for results, take that as you may
+
+Hey , Can you please elaborate your skillsets and internships as I also want to get job in DataScience.
+
+This is solid advice. If you make the business money they won’t want to lay you off easily. Palms are hardly useful unless you’re a product based big tech company.
+
+In my opinion, the risk of layoff is secondary because OP is so early in their career.
+
+If you don’t work on something that brings revenue (or save cost) to your employers, you will face layoff risk. It doesn’t matter whether you’re early in your career or experienced.
+
+True; just saying that it's easier to respond to a layoff in early career than late imo
+
+I would imagine that the LLM area will have a short-term increase before it becomes absorbed by AI. The Marketing side still has room to increase for at least a few years more...
+
+If you pick 1, then you'd have to hope this isn't prompt engineering role and actually work that involves evaluating ML models, deploying models into production, learning how to fine tune LLMs. If you those are not the nature of the role, then I'd go with option 2.
+
+I'm not sure how remote will help you as a new hire - promotions will be very difficult as you won't have much visibility and you'll miss discussions between meetings (where most ideas come from). If it were me, I'd AirBnB a place near the office and be there for 3 months just to pick up the culture, onboard easily, and learn quickly before I go full remote.
+
+Thank you for your insight!
+
+I'm scared too about falling into a prompt engineering role. While the job description mentions overseeing the full data lifecycle, from model development to deployment and monitoring, they did mention during the interview that they’re currently working on various separate tasks rather than full projects.
+
+I wish I could follow your suggestion about staying near the office, but unfortunately, the startup’s office is abroad and not in my country.
+
+do you have any background in training LLMs? if not i would be suspicious of this company hiring you for a couple reasons. first it is likely more on the prompt engineering side and maybe using the outputs for downstream models or decisions at most. you should 100% ask for a followup chat to question exactly what the work will look like. second if they’re hiring people without much experience they are either desperate or looking for cheaper labor possibly and being a startup in the LLM space this does not bode well for the long term prospects of this company. these startups in general are dropping like flies. if you take this role you want to ensure you’ll learn a lot of marketable skills quickly in case they go under.
+
+overall the second role seems much safer and it makes sense they are hiring a fresh graduate because that is a normal role for them make use of and you’ll likely have stability while learning good business and technical skills from a successful team.
+
+What’s “prompt engineering”?
+
+It's not engineering that's for sure
+
+Thank you for your reply! You make some great points. They did actually offer me the role right after the interview, which did make me a bit suspicious at first. To answer your question, I have a general understanding of LLMs as a beginner, but I haven’t had direct experience with training them. The closest I’ve come is building a simple chatbot using NLP techniques.
+
+I’ll definitely take your advice and ask if it’s possible to get a clearer idea of the kind of work they’re focusing on before making a decision.
+
+Yeah honestly I'd be very suspicious of this startup. If they can't give you some clear answers or won't do the followup then those are big red flags. There's definitely some shady/bullshitty and even scammy remote hiring situations especially in this trendy space.
+
+Thanks a lot for warning me! I'll make sure to insist on the followup to get a better understanding.
+
+You should have a follow up call and ask them about the day-to-day activities involved and whether they cover the three areas (evaluation, deployment and fine-tuning). Especially this early in your career, I would not risk a mediocre role. Even if "Marketing Scientist" is not a 'sexy' title at the moment, working in a company that's more mature and has a clear process is far more valuable. And in a formal/mature company space you'll learn about the 'process' - how projects are handled, how client relationships are addressed, navigating corporate life, etc.
+
+Also, you can always deploy LLM in Marketing Science roles (e.g. parsing survey/NPS responses and drawing insight into pain points mentioned by customers).
+
+I agree with both u/dankerton and u/fishnet222 comments that it's safest to pursue Role #2 (especially this early in your career).
+
+Thanks a lot for your insight! It seems like the consensus here leans toward the second role. I do understand your point about gaining experience in corporate life. The only experience I’ve had with it so far was through internships, and I’m not sure if I was able to fully assess whether I’d enjoy it or if I’d prefer working fully remotely at a first job.
+
+You don’t mention what your degree is in nor the level… but calling yourself a “recent graduate” makes me assume you just wrapped up undergrad.
+
+I would be highly suspicious of a team hiring an “LLM engineer” right out of undergrad. This is generally not an entry level position. I would, personally, feel uneasy on what they expect and what their structure looks like. If you’re joining a team of other data scientists / engineers, then ok, it might not be too bad. If it’s you and 1-2 other people… red flag.
+
+Yeah I agree given the information we have it seems suspicious. Either this startup has no idea what they're doing or they're trying to find cheaper labor for prompt engineering roles. The odds that it's a well supported and structured junior engineering role in LLMs that's not just prompt engineering and has good career opportunities and the startup will succeed are so so slim.
+
+Thank you for your reply! Just to clarify, I’m not US-based. I have an engineering degree, which here involves two years of pre-engineering studies followed by three years of specialization to earn an engineer’s diploma in statistics and modeling. Typically, junior engineering roles in my country only require this level of education early in our careers, while more senior roles may require a master’s or PhD.
+
+Regarding the team structure, they mentioned having four AI engineers, and I would be the fifth, alongside other teams working on software engineering, marketing, and other areas.
+
+Congrats firstly! If the company is remote only colleagues will know how to build relationships remote. It’s a different matter if only you’re remote and everyone else is in person. Further, some companies may even have get togethers every once in awhile and those are great times to build relationships too. Ask if those opps exist but sounds like if the only things holding you back from the first option is this, I wouldn’t worry too much about it.
+
+Thanks a lot! Indeed, everyone I’ll be working closely with is remote as well, since the company is based abroad. They mentioned holding two get-togethers yearly, and I’m hopeful that will be enough to build strong connections. I appreciate your insight!
+
+Since 2020 I’ve had an in-person role, a hybrid role, and a remote role in a fully remote organization. The culture at the in-person role was by far the worst of them all so it was very hard for me to connect with colleagues. The remote role has been by far the best. Getting together a few times a year for intense week-long “working retreats” has worked really well.
+
+All that is to say I think it depends on the people as much as the workplace setup.
+
+Second one. You don’t have the experience to be fully remote. You will end up being “forgotten” and eventually will be made redundant.
+
+The second one! It gives you a better opportunity to grow your career, ask questions and develop your soft skills. A manager will always keep the person that integrates into the team and is good to have around the office. You will be surprised but it is a lot harder to teach soft skills than hard/technical skills.
+
+Also having client facing experience is incredibly important. Remember it does not matter if you know how to build an product if you don’t know how to sell it by knowing how to interact with a client and understanding what their needs are.
+
+Thank you for your insight! I do have some concerns about the client-facing aspect, as I don't have any experience with it and am mostly used to working on the technical side of projects. However, I agree that developing those soft skills is important and adds a valuable layer to technical expertise.
+
+They are not hiring you for that. They know that you don’t have the client side experience. They are hiring you because you are cheaper than a senior and are energetic and want to learn. Be realistic, know your strengths and weaknesses. Create SMART goals for yourself and truly track them. Ask when you have a question. Research when you get an answer that you don’t understand. Then ask a better question. Repeat until you can ask a question and you get an answer that you understand.
+
+Congrats on the offers! I’ve been in a role similar to option 2 for the last ~7 years and love it. If you have any interest whatsoever in causal inference, option 2 is a good opportunity.
+
+Thank you so much! That’s really awesome to hear! If you don’t mind, I’d love to hear more about what you enjoy most about this role and how it can progress over time, so you don’t feel stuck in a routine of doing the same tasks.
+
+Of course! I think the biggest thing I enjoy about the role is how plugged in I am to the entire business and the overall business strategy. Pretty much every part of the business is connected to marketing in some form or fashion, so I get to see pretty much everything and help stakeholders condense it into high level strategic direction. You’re close to the money, which is usually a good thing.
+
+From a technical perspective there’s no shortage of challenging problems to work on and plenty of fairly well structured data to support you. Stakeholders and advertising platforms are always figuring out new and creative ways to ruin a standard A/B test, so you end up doing a lot of quasi-experimental type analysis and causal inference type work to understand the impact of the things they’re doing. There’s a ton of variety in the types of problems people are trying to solve in this particular field which helps you avoid falling into a role where you end up doing the same thing over and over.
+
+From a career progression standpoint it’s one of the more flexible options. You can go either a technical route or a more business-y route. I’d say it probably matures better than other areas of data science since it is so close to the strategic part of the business.
+
+Interesting.What would your ideal next role look like?
+
+Ha I wish I knew. I’m pretty happy in my current role. I’m fully remote, I get to work on some pretty technical high visibility projects, am (fingers crossed) up for promotion next cycle, and am pretty well compensated for my COL at a household name tech company, so I don’t have much incentive to change roles at the moment.
+
+I’ve recently had some conversations with my manager about potentially moving more into a management/leadership type role. I don’t really want to, but I do see a harder upper limit on the IC track I’m on compared to management unfortunately.
+
+Thank you so much for sharing your experience! You sound truly passionate about your role, and it’s inspiring to me.
+
+One thing I’m a little nervous about is the business-facing aspect, especially talking to stakeholders. I’ve mostly worked on projects on my own, where my communication was limited to mentors in internships or professors. Do you think skills like communicating with stakeholders and understanding their needs can be taught, or is it something that just comes with experience?
+
+The second job is a lot more real for sure, but this field changes so fast that the only way to future proof it is to stay curious.
+
+Roll the dice, take a risk and follow your energy!
+
+Thank you for your inspiring words! I’ll definitely try to embrace that mindset and stay curious as I move forward.
+
+You need to consider (1) salary, (2) career advancement opportunities, (3) your actual interest level, (4) work-life balance, and (5) what you WANT
+
+Thank you for your reply! Both roles offer a typical entry-level salary, with the second one being slightly higher. However, the first LLM role is fully remote, so I wouldn’t need to pay for rent, while the second, office-based role would require relocating to another city and possibly commuting. After factoring in those costs, the take-home amount would likely be similar.
+
+In terms of work-life balance, both roles have standard 9-to-5 schedules. However, I’m a bit concerned about the remote role blurring the lines between work and home life, as working and living in the same space might make it harder to disconnect.
+
+As for what I want, I’m still figuring that out. It was challenging to secure any offer at all, so my focus right now is on making a decision fast before they rescind the offers and starting my career.
+
+What is the hierarchy setting in both places? Will you be part of a team? Will your manager be from the field or with technical knowledge at all? Which company did you find more interesting to work for? Which company seems like a better fit from a social perspective? These are also questions to consider.
+
+Do #1
+
+I’m currently doing #2, and a large part of the job is just about slowly automating myself out of a job.
+
+I imagine within 5-10 years, #2 won’t be a super secure position.
+
+1 is the future.
+
+I would 100% choose the first job. Commuting takes so much time. AI engineering skills will enhance your marketing analytics skills, but less so the other way. Most people in early career don't know what niche they want yet and the first role is more pluripotent imo.
+
+Others have mentioned solid reasons why #2 might be better. Here are my opinions on a handful of them:
+
+'It sounds like a silly prompt engineering job': Even prompt engineering can be very interesting. It's more than just rephrasing questions to a chatbot. I've been thinking about soft prompt + QLoRA workflows for POCs from a single internal foundation model. And I read something from Andrew Ng recently suggesting many teams should do more prompt engineering first. And I read a cool paper from Chinese lab (forget which. Baidu?) where they synthesized a whole bunch of personas. And i'd say prompt engineering is an important part of agentic workflows too
+'you might get laid off': if you assume you will be laid off, which experience would you prefer on your resume? In your early career, you aren't losing as much imo. Many in our industry level up and bag raises by moving from company to company anyways. Marketing analytics sounds possibly easy to automate too
+'you will be forgotten since no one will see you': if the culture is remote first, you will be seen as much as you proactively interact with others. You could also be a wallflower in an office. It's what you make of it. Maybe it'd matter more if you already know you want to stay and grow with the company. In my experience, the workers with the most negotiating power always have a foot out the door anyways.
+'you may not add much value in role #1': true or not, why does this matter? The company's goals aren't your career goals. You can gain a lot of real world hands on experience on the company's dime. If that's what they asked for, it's not on you if they squandered money. Just be prepared for the layoff and look elsewhere to advance; you should never stop upskilling in this field anyways and if you were looking elsewhere to begin with, it's not difficult news to process.
+'you won't scratch your social need for in-person interaction': fair point, but you can fill your social meter outside work too. A lot of remote-first companies have in-person events too.
+But tbh, I think the most important thing to look at is salary and compensation, which is the biggest determinant of what your next raise looks like.
+
+Congrats on your offers; good luck
+
+Remote work. I’m overemployed, I’d never take an in office job again unless some crazy shit happens
+
+These could mean anything. Give us context on the companies, country etc.
+
+Hi, thank you for your reply! I’m not US-based, but I’d prefer not to share my country as I’d like to maintain some privacy on reddit.
+
+For context, I have an engineering degree, which in my country involves two years of pre-engineering studies followed by three years of specialization to earn an engineer’s diploma in statistics and modeling. Junior engineering roles here typically require this level of education early in our careers, while more senior roles often require a master’s or PhD.
+
+As for the roles, the first company offering the LLM position is a growing startup with an office abroad, so the work would be fully remote. The second company is a well-established name in my country. I hope this gives a clearer picture!
+
+I wouldn’t choose the first job unless you really want the skills on your CV and even then there are other ways. Startups that truly require LLM tuning are generally well-funded (say $50M up) and those tend to look for research scientist or big tech engineer types for that role. There are exceptions but you need to do research on the company to know they aren’t just jumping on the bandwagon empty-handed.
+
+Second seems alright if you are open to growing into a consultant or management position. Even if it turns out to be a SQL monkey job, the brand name will probably be helpful for your next move. This seems to be the safer choice as long as you aren’t super determined to do technical ML.
+
+Thanks a lot for your advice! I was mainly interested in the first role for the skills, thinking they would help me in the long run. While my initial goal was to focus on technical ML, after reading through all the comments, I’m starting to be more open to exploring the second role and developing the soft skills it offers to see if I might enjoy it.
+
+Which role provides more value to the company? Because whichever that is will yield better career opportunities for you. If the company's LLM is a moneymaker (e.g. Amazon) then that could be a good option.but if not and the role is an experiment for the company, then that project could be cancelled at any moment and you may not get the experience you're looking for. I can't say that I know anything meaningful about either role, but my instinct is that the marketing role will be a better move due to value and because it should better utilize your stats background.
+
+Thank you for your insight! This is definitely something to think about. As you mentioned, the second role would likely provide more value to the company since it involves working directly with stakeholders and clients. However, I don’t have much experience in that area and I'm worried about not handling it well. The LLM role is with a startup, so I wouldn’t expect it to be a major moneymaker for them right now.
+
+I'd totally go for AI Engineer. Marketing Scientist (Analyst role I assume) is saturated and vulnerable to automation. But make sure building LLM is really what you are going to do (if it's prompt engineering go for the market scientist).
+
+Thank you for your reply! You're right, the Marketing Scientist role is more of an analyst position. I will definitely ask for more clarification about the tasks involved in the LLM position to make sure it's not prompt engineering.
+
+Wow, look at you! Can I have whichever one you don’t want?
+
+Haha, thank you! Honestly, I feel really lucky to be in this position after three months, over 300 applications, and countless rejections. Maybe that’s why it’s been so tough to decide. I’m scared of choosing a role that won't be good and then having to start the exhausting job hunt all over again.
+
+AI Engineer. Like you said, more growth opportunities. Something else I wanted to mention is that getting solid engineering skills will help you in the future more than anything as a data scientist. Who’ll hire someone that can’t take their models into production if there is a candidate who can?
+
+Edit: typo
+
+Thank you for your reply. Yes, I definitely agree that deploying models has become a requirement these days and will definitely be valuable in the long run.
+
+After reading these comments and their lovely detail and suggestions — aggression of the position is also something to consider. Will you work substantially more in one than the other? I would personally give some positive weight to the job that is more intense: hours, culture & the whole 9 yards. Being in a position early on when you are counted on and therefore work more is highly productive.
+
+Thanks a lot for your suggestion! I agree that being in a position where I'm counted on and working more could really motivate me to learn and progress quickly. Both roles currently offer the same work hours (9 to 5, Monday to Friday), but the in-office job might indeed be more intense.
+
+Big stable company any day over chaotic startup for your development.
+
+Marketing analytics is a good niche as I am in now.
+
+Thank you for your reply! Do you think there are good opportunities for career progression in such a role? And if I don’t end up enjoying it, would it be possible to transition back to a more technical role?
+
+Make sure the remote job is not some sort of scam
+
+Thank you for your advice! I’ll definitely be requesting a follow-up to clarify the type of tasks I’ll be working on. I’ll also ask for more details about the contract, as the only information they provided so far was the salary.
+
+As other have mentioned, make sure the AI Engineer involves creating models and utilizing your skills. Congratulations though!
+
+Thanks a lot for your kind words! Yes, I’ll definitely look into that more to ensure it aligns with my skills.
+
+Congrats on both offers! Especially in this market as a new grad, that is phenomenal
+
+I'm not surprised everyone here is saying Marketing Scientist at the bigger company, that makes sense as this sub tends to not really like LLMs. I'd say the AI Engineer role would be the one I'd pick if I were for you for a few different reasons:
+
+1) More technical (if I understand your post)
+
+2) Fully remote (you can get really good mentorship/teambuilding in the right remote environment, and sometimes office life can suckkkkkkk)
+
+3) LLM adoption has been widespread and quick - they are here to stay and getting in earlier is better
+
+However I will say this (as someone who has had jobs centered around LLMs for the last few years): it may have a pigeon-hole effect, I have noticed since I started that it is a lot harder for me to stand out in terms of traditional ML/SW/DS jobs. I'm not sure if this is due to the current market, or if it is because there is a tendency to be pigeon-holed, but an easy fix for this could be just removing LLM references on any resume and focusing on the general SW side of things. Good luck, and again congrats!
+
+As many said, it depends on your personal preference. I can give you what I think about the opportunities after 10 years in the industry.
+
+AI engineer: this is a very good skill to acquire, especially if you can pivot more to the MLops side (deploying and serving models) because it's a very demanded skill on the market that will serve you well on the future. The skill you will learn here will apply not only to llm but to any model. Once you have this skill it would be easy to find a job in any industry
+
+Marketing science: it could be great to get some vertial experience but I've never met anyone happy to work in data science for marketing. The data is terrible and the work itself is a bit dull, but that's personal preference. Pivoting on other data science jobs will be slight harder here.
+
+I would go for AI eng but it depends on what interests you
+
+Some good comments here already. Both are potentially good roles. Two other things to consider
+
+1) Level of technical maturity. Do they use Python, version control, and some kind of cloud based database/computing environment? Did they ask you technical questions in the interview?
+
+2) Vibes. What was your impression of the people who interviewed you? Especially the person who'd be your manager.
+
+I think you're doing great, whatever choice you make just stick to it.
+
+If you truly graduated in statistics, taking the position as an AI Engineer should be a no-brainer.
+
+In my humble opinion, you should go for option two. AI engineer definitely is the sexier sounding role, but from experience and what I've seen on the market, those roles are mainly companies saying they want to do AI and saying they need an AI person to train some bullshit in house model or just prompt engineer. I can't say 100% that's what the first job is, but unless they're asking you detailed questions about how to fine tune LLM's (stuff like Lora, RAG, multi-GPU training, efficient inference and deployment, etc) it's probably a hype type job where they use GPT and call it "their model".
+
+Never been in marketing, but my fiancee is in that field now and you'll get a lot more real world experience with creating, training, fine tuning, and (most important for a new grad) deploying ML models to production. On top of that, you'll probably get exposed to stuff like casual inference which can be very valuable for future job prospects. Doing a bunch of sklearn stuff doesn't sound as sexy as LLM time, but long term you'll probably benefit the most.
+
+Plus, that in-person time is really important. Take it from someone who actually wants to go back to the office after 5+ years of remote. Those in-person conversations are sorely missed from my end.
+
+Go for 1. Always prefer a tech role over business
+
+Hard choice, I’m in a similar situation , between two opportunities in data science, both within public organizations but in very different areas. I’d also appreciate any advice on which path might be better for my long-term career. Here’s the breakdown: 1. Option 1: Post-grad Internship in the Judicial Sector • Focus: Automation, Applied AI and BI within the judicial sector, where I’d likely work with generative AI (Gen AI), NLP, automation tools, power BI as well as platforms like Azure, it could have some traditional ml later maybe, but due to the area probably more gen ai(AI is a growing sector there). • Pros: • Strong focus on Gen AI and NLP, which are areas of growing demand and align with current trends in AI development. • The internship pays about 50% more per hour than the other role, and even after covering the required post-grad program, I’d still earn more. • Shorter hours (6h/day), giving me the flexibility to pursue freelance projects in Gen AI and automation—something I’ve been planning to do. • Cons: • It’s an internship, which may not carry as much weight on my resume as a full-time role. • The post-grad program is mandatory and adds to my workload, though it could be a good learning opportunity and addition to resume. • Growth: Advancement or a full-time position would depend on vacancies, but the salary jump in this sector would likely be much higher if I were hired permanently. 2. Option 2: Full-Time Role in Economic and Social Research • Focus: Data science work in a research-oriented organization that focuses on economic and social studies. This would involve statistical analysis, causal inference, and potentially traditional machine learning models. • Pros: • Opportunity to deepen my knowledge in areas like causal inference, which I currently have limited experience in. • Working on research projects with potential social impact, which could be valuable for my resume. • A full-time role means I could officially list “Data Scientist” as my job title, even if the official designation differs slightly. • Cons: • Salary is very low for the area , even tho it’s a full time role (2,000/month). • Like the internship, growth depends on vacancies, but the potential salary increase is smaller than in the judicial sector. • Growth: While the role provides a strong foundation in data science, I might miss out on cutting-edge developments in AI, like Gen AI and NLP, which are less likely to be a focus here.
+
+Other Factors to Consider: • Both roles are within public organizations, and advancement in either position would depend on factors outside my control, such as vacancies or people leaving their roles.
+
+• I already have a short-term data science experience listed on my resume, but I’m unsure if transitioning to a post-graduate internship afterward might look like a “setback” to potential employers.
+
+• The judicial internship has a stronger focus on Gen AI and NLP, while the research role emphasizes traditional data science techniques like causal inference. This makes the former more specialized and the latter more foundational.
+• Although the research role has a lower salary, it could provide me with a broader skill set and strengthen areas I haven’t worked on much before.
+• The flexibility of the internship (6h/day) could make it easier to grow my freelance work in Gen AI and automation, which I’ve been planning to do.
+• If I choose the internship, I’m wondering if having both an autonomous freelance project and the post-grad program simultaneously would balance out the fact that it’s “just” an internship.
+The Big Question: Should I prioritize the full-time research role for its foundational focus on economic and social studies, or the judicial internship for being able to focus more on AI, NLP, and higher hourly pay? Would taking an internship after a short-term experience in data science seem like a step backward, or could I frame the specialization ane and added freelance work as an advantage?
+
+Hey there! First of all, congratulations on landing not one but two great offers! That’s no small feat, especially in today’s competitive job market. Both roles sound interesting, but since you’re leaning toward the AI Engineer position, let me break it down for you and explain why I think that’s the better choice for your long-term growth.
+
+Future-Proofing Your Career: The AI Engineer role focuses on building large language models (LLMs), which are at the cutting edge of tech right now. AI and machine learning are rapidly growing fields, and having hands-on experience with LLMs will put you in a strong position to capitalize on this trend. Even if you decide to shift roles later, having “AI Engineer” and experience with LLMs on your resume will open a lot of doors.
+Transferable Skills: The technical expertise you gain in an AI Engineer role will be highly transferable across industries. Whether you decide to stay in tech, pivot to research, or even move into applied areas like healthcare or finance, this role sets a solid foundation. Plus, technical skills often command higher salaries and better opportunities over time.
+Workplace Interaction: I totally understand your hesitation about the fully remote aspect, especially since you value in-person interactions. But many remote roles still have ways to build community—team meetings, virtual hangouts, or even periodic offsite events. Plus, you can balance this by joining local meetups or communities related to your field. The independence you gain from remote work could also help you grow personally and professionally.
+Career Titles Matter (Early On): In the early stages of your career, job titles can make a big difference. “AI Engineer” has more technical prestige and tends to carry more weight when you’re looking to make your next move. “Marketing Scientist,” while valuable, might pigeonhole you into a niche that’s harder to pivot out of later.
+The Stats + Data Science Angle: With your background in statistics and modeling, the AI Engineer role aligns better with the skills you’ve been building. You’ve already mentioned that you’ve done projects and internships in data science—this is your chance to take those skills to the next level. While the Marketing Scientist role sounds client-facing and analytical, it might not challenge or stretch your technical abilities in the same way.
+Lastly, remember that while workplace interactions are important, the growth opportunities you get early in your career can have a bigger impact in the long run. You can always seek out networking and social opportunities outside of work, but getting your foot in the door of a cutting-edge field like AI doesn’t come around every day.
+
+Go for the AI Engineer role—you’ll thank yourself a few years down the line! Best of luck, and congrats again! 🎉
+
+People downvoting you are just bitter assholes. Congrats!
+
+Hey, Can you please elaborate your skillsets and internships ? Did you do a course in Machine learning and data science ? I am interested because i am also looking for a job in datascience.
+How is job situation in your country? In my country its decent for experienced folks but terrible for freshers.
+
+First off, congratulations on receiving two offers—great to see your hard work paying off! Here’s some advice to help you decide:
+
+AI Engineer (Fully Remote): This sounds like a strong opportunity for growth, especially with the focus on LLMs, which are in high demand. If you're passionate about AI and technical challenges, this could set you up for a great future. However, the fully remote aspect might be tricky if you value in-person interaction. Being remote can sometimes feel isolating, but it can also offer flexibility and work-life balance.
+Marketing Scientist (Office-based): This role might give you a more social, collaborative environment, with direct client interactions. If you enjoy working closely with people and problem-solving in a business context, this could be more fulfilling. However, the focus on marketing might not align with your passion for technical/statistical work in the long term.
+Since you're early in your career, growth potential and job satisfaction should weigh heavily in your decision. If you’re excited by AI and the potential of working on cutting-edge technology, the AI Engineer role might be the better long-term bet. However, if you think you’ll miss social interactions and enjoy a mix of technical and business challenges, the Marketing Scientist role could be a more balanced fit.
+
+Don’t be afraid to follow what excites you most in terms of your career development! It’s okay to start with one role and pivot later if needed.
+
+Sorry I'm a little rushed so don't have time to give you a full answer other than to say when you're fresh out of university being in person with other people is usually miles better for learning, knowledge transfer and network building than being remote.
+
+When you are early in your career it's really beneficial long term to build your network and your skills in tandem, and build them aggressively early on. You then get compounding returns over time.
+
+Source: 15 years in industry and went from a £23k graduate engineering salary to over £200k per year as an engineering contractor over that period.
+
+More money = better. /s
+
+I would do AI engineer myself but that’s a decision for you to make
+
+I might be late in the day, you may have already made a choice. One thing I have experience in is that you need to find a job and employer that creates value in society, which empowers you and which allows you to grow. I guess you will have to way the pros and cons taken these elements into consideration. I would base my decision on these elements if you also want to be happy in your job.
+
+Goodluck!
+
+Based on me, I would go AI Engineer because I can work remotely.

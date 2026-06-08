@@ -1,0 +1,27 @@
+SOURCE: r/internships
+TITLE: When did you start applying for summer and how did you track it?
+URL: https://www.reddit.com/r/internships/comments/1ddq1st/when_did_you_start_applying_for_summer_and_how/
+
+--- POST ---
+I am essentially going to be eligible and wanting to apply for internships in summer 2025. I want to know when did you start applying for summer? How did you track it so you do not miss out on the number of applications?
+
+--- COMMENTS ---
+I started applying in November and stopped applying in March. I made and Excel Spreadsheet to keep track of where I had applied and how far I advanced in each.
+
+I started applying in December and stopped applying in May. I made a google sheet to track all the internships I applied for
+
+I started applying in October of the year before, as that’s when the earliest ones opened. I kept a google sheets spreadsheet with the company, date applied, role title, location, pay rate, if I got an interview, and what the company decision was to keep track of my applications.
+
+I began applying as early as February the year before. I’ve been tracking everything on Notion :)
+
+Currently applying to some and finding open dates to others now. Timelines will vary greatly by industry, and also within that industry. Would recommend to have a quick look at your desired companies and see their past postings for their timeline.
+
+Will do so! I’m trying to apply for marketing positions and the market is super saturated 😭
+
+You can start applying now depending on ur major
+
+Started in October and ended in March I believe
+
+Tracked using excel
+
+I am a rising junior and this year I started applying in Early September, had the bulk of my 12 offers in december. Signed offer in January. Entertained stragglers until mid march. Tracked via excel pushed to tableau visualizations.

@@ -1,0 +1,89 @@
+SOURCE: r/cscareerquestions
+TITLE: What do you wish you knew before you started your internship?
+URL: https://www.reddit.com/r/cscareerquestions/comments/btei0w/what_do_you_wish_you_knew_before_you_started_your/
+
+--- POST ---
+[original post deleted by author]
+
+--- COMMENTS ---
+I've never had an internship but i've had about a dozen interns so I'll say it from that perspective. Just be a normal human being and do your best. We don't really have very high expectations for your technical abilities, just that you improve over time.
+
+I would add don’t stream twitch. For some reason that is popular with interns at my company.
+
+Just out of curiosity, do you work at a big tech company? I feel like this is something that would usually only happen there vs. say one in finance or something.
+
+It is more midsize but our site is 400 total people (about 100 software engineers).
+
+Ask questions, take notes of the answers. No one minds the intern asking questions. Everybody hates the intern asking the same question twice
+
+Bonus: dump your questions and the answers you got into a wiki for the next intern (or yourself for later use) - you'll be a hero
+
+Your co-workers know you're inexperienced and expect you to fuck up, make mistakes and struggle. Know that it's perfectly OK and normal. It's an important part of the process of becoming a professional engineer.
+
+Openly and honestly take ownership of your mistakes and work towards improvements you can make the next time you encounter a similar problem. This is probably the best way to impress them and stand out, as most interns will be embarrassed and try to hide their mistakes or ignorance.
+
+Soft skills and Business understanding of the product matters more than I think it did. I interned at a place for a semester, and initially I had trouble explaining my ideas on abstract level to the other developers. Once I got comfortable by observing other people, and got better understanding of the project, I had easier time contributing and performing.
+
+I interned once, definitely be sociable with your team. Understand not everyone will have time for you, heck some will lose patience, so ask around for solutions to your issues and dive into documentation. Also, understand what you're working on in the big picture - not your cog but what does the whole system do with your cog and what benefits/results are generated for the users. All the best with the internship and learning experience.
+
+Take notes of all the work you're doing. Make sure you know what you did every day or week and make sure your manager knows what you did.
+
+Try learn as much as possible. Know that's why you're there and managers understand that, at the same time though, make sure you impress your coworkers.
+
+Learn, but also give some benefit to the company.
+
+It's been a while since I've been an intern but my take aways were:
+
+Ask questions. It's OK not to know (obviously, you should know the basics but don't be afraid to ask otherwise. And don't make people repeat themsevles either, that's a bit annoying). It's OK to be curious. You'll do a better job and they will perceive you as being more interested and engaged.
+
+Talk to people. I know this is hard for some people - myself included - but it's important to get to know people and have a chat once in a while. That includes socializing.
+
+Feeling like you don't belong and that someone will figure you out for the fraud that you are is perfectly normal. Everyone feels that way.
+
+Had my first week last week and I felt really down because I felt like I didn't know anything and am not sure if I can handle what they're asking me to do..
+
+First breathe. Second, that's perfectly normal, don't worry about it. Third, the first step in learning something is realizing you don't know that thing. So ask questions and learn. That's primarily what internships are about.
+
+I feel like I am struggling a bit, but my internship is remote 4 days a week and I was pretty much thrown in with only an HR orientation and brief introduction to my project team.
+
+I am really feeling isolated and like I dont want to ask questions because they put ime in all new technologies that I have never done, JS, Node, and scraping data through a 3rd party application.
+
+I feel like I would be a million times more productive if I could have a 15 minute daily chat with someone familiar with what I am doing so I know I am getting the basics down, and not missing anything.
+
+I will grind through this iinternship, but am honestly surprised at the lack of mentorship/required communication.
+
+I literally feel I am at a point where those I should be asking for help are too busy and it leaves me in a frstrating position where I am making a small mistake in a process and makes it look like I am accomplishing nothing when I am just throwing everything I can think of at the problems I have encountered early on.
+
+I am loving what I am learning, but kind of assume my team sees me as such a novice that im useless.
+
+Like I said I will grind this out, but can I ask, is this typical to have literally no mentorship in an internship where you are working with a completely new tech stack?
+
+No, this is fairly uncommon. Actually, it's not generally a good sign. If this is an internship there must be some point of contact within HR. I'd have a chat with them about the format, expectations and if they can provide you with a contact to get assistance.
+
+I really appreciate your response, I have worked quite a few professional positions and I really cant compare the lack of communication/training I have receieved to any other position which is troublesome to me.
+
+I am going to make this a point of conversation when I next speak to my supervisor just to make sure they did miss anything when they brought me on, as I have felt the biggest challenge so far has been navigating who I should be speaking to with my questions.
+
+I am very hard on myself, and with this being my first internship it makes me feel like I am not a fit, but I am immensely interested and motivate to learn what tehy have me working on, and this week took a moment to step back and realize that although I am terribly inexperienced, I also may not have received much help in navigating myself to start out and cannot blame myself for that.
+
+Appreciate the response, it makes me feel much less stressed to hear this is not typical!
+
+No problem. I think they might not be very well organized - sometimes remote work can end up feeling a bit disjointed, even in the best of circumstances. For an intern it must be doubly so, especially when there isn't a clearly defined mentorship in place. Best of luck.
+
+No one has any idea about what the fuck is going on for the first few weeks of their job. The key to this is to ask a question every single time you hear something you don't know. No matter how dumb it sounds. No matter how many words in the sentence you need explained.
+
+After all, if you don't learn, you'll be stuck in that "WTF is going on?" phase at the end of your internship, and that's when it doesn't look good. Earlier on, people think you are inquisitive and wanting to learn more if you ask questions, and that's always a plus.
+
+Once you are in the groove of your internship make sure when you ask for help or have a question give a lot of details.
+
+There is a big difference in “I can’t build” vs “I tried x, y and z but am still getting <whatever> error in this certain sub component.
+
+It will help your mentor get in the right headspace and shows that you have put effort into your problem.
+
+Edit: spelling
+
+One thing I took away from my internship was to proactively seek help and advice, and to regularly give status updates to your mentor/manager. No one can help you if they don't know you need help. And getting help quickly is much more appreciated than being stuck on it for too long and trying to solve it youself
+
+If your manager/mentor isn't meeting with you regularly, or giving you feedback, ask for it and make sure you're clear on expectations.
+If something catches your eye, and you think it would be cool to work on, just ask
+Make sure you're learning while you work. If you find yourself looking up certain things every time you do them, maybe set aside some time to learn more about it

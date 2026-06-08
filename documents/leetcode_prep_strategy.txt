@@ -1,0 +1,505 @@
+SOURCE: r/leetcode
+TITLE: How I cracked FAANG+ with just 30 minutes of studying per day
+URL: https://www.reddit.com/r/leetcode/comments/1kmt5le/how_i_cracked_faang_with_just_30_minutes_of/
+
+--- POST ---
+Edit: Apologies, the post turned out a bit longer than I thought it would. Summary at the bottom.
+
+Yup, it sounds ridiculous, but I cracked a FAANG+ offer by studying just 30 minutes a day. I’m not talking about one of the top three giants, but a very solid, well-respected company that competes for the same talent, pays incredibly well, and runs a serious interview process. No paid courses, no LeetCode marathons, and no skipping weekends. I studied for exactly 30 minutes every single day. Not more, not less. I set a timer. When it went off, I stopped immediately, even if I was halfway through a problem or in the middle of reading something. That was the whole point. I wanted it to be something I could do no matter how busy or burned out I felt.
+
+For six months, I never missed a day. I alternated between LeetCode and system design. One day I would do a coding problem. The next, I would read about scalable systems, sketch out architectures on paper, or watch a short system design breakdown and try to reconstruct it from memory. I treated both tracks with equal importance. It was tempting to focus only on coding, since that’s what everyone talks about, but I found that being able to speak clearly and confidently about design gave me a huge edge in interviews. Most people either cram system design last minute or avoid it entirely. I didn’t. I made it part of the process from day one.
+
+My LeetCode sessions were slow at first. Most days, I didn’t even finish a full problem. But that didn’t bother me. I wasn’t chasing volume. I just wanted to get better, a little at a time. I made a habit of revisiting problems that confused me, breaking them down, rewriting the solutions from scratch, and thinking about what pattern was hiding underneath. Eventually, those patterns started to feel familiar. I’d see a graph problem and instantly know whether it needed BFS or DFS. I’d recognize dynamic programming problems without panicking. That recognition didn’t come from grinding out 300 problems. It came from sitting with one problem for 30 focused minutes and actually understanding it.
+
+System design was the same. I didn’t binge five-hour YouTube videos. I took small pieces. One day I’d learn about rate limiting. Another day I’d read about consistent hashing. Sometimes I’d sketch out how I’d design a URL shortener, or a chat app, or a distributed cache, and then compare it to a reference design. I wasn’t trying to memorize diagrams. I was training myself to think in systems. By the time interviews came around, I could confidently walk through a design without freezing or falling back on buzzwords.
+
+The 30-minute cap forced me to stop before I got tired or frustrated. It kept the habit sustainable. I didn’t dread it. It became a part of my day, like brushing my teeth. Even when I was busy, even when I was traveling, even when I had no energy left after work, I still did it. Just 30 minutes. Just show up. That mindset carried me further than any spreadsheet or master list of questions ever did.
+
+I failed a few interviews early on. That’s normal. But I kept going, because I wasn’t sprinting. I had built a system that could last. And eventually, it worked. I got the offer, negotiated a great comp package, and honestly felt more confident in myself than I ever had before. Not just because I passed the interviews, but because I had finally found a way to grow that didn’t destroy me in the process.
+
+If you’re feeling overwhelmed by the grind, I hope this gives you a different perspective. You don’t need to be the person doing six-hour sessions and hitting problem number 500. You can take a slow, thoughtful path and still get there. The trick is to be consistent, intentional, and patient. That’s it. That’s the post.
+
+Here is a tl;dr summary:
+
+I studied every single day for 30 minutes. No more, no less. I never missed a single study session.
+I would alternate daily between LeetCode and System Design
+I took about 6 months to feel ready, which comes out to roughly ~90 hours of studying.
+I got an offer from a FAANG adjacent company that tripled my TC
+I was able to keep my hobbies, keep my health, my relationships, and still live life
+I am still doing the 30 minute study sessions to maintain and grow what I learned. I am now at the state where I am constantly interview ready. I feel confident applying to any company and interviewing tomorrow if needed. It requires such little effort per day.
+Please take care of yourself. Don't feel guilted into studying for 10 hours a day like some people do. You don't have to do it.
+Resources I used:
+LeetCode - NeetCode 150 was my bread and butter. Then company tagged closer to the interviews
+System Design - Jordan Has No Life youtube channel, and HelloInterview website
+top 200 commentsshow all 295
+
+--- COMMENTS ---
+It takes me 30mins of disassociating with LC open, to actually start studying.
+
+A lot of my friends always have it open on their screen
+
+load more comments (1 reply)
+load more comments (2 replies)
+
+That's the way I did it, but it took me over a year to get into a FAANG and that was back in 2022 when things were way easier. I still believe this is the best ways to study, slow but steady. That way you retain more and don't risk burnout.
+
+The issue is most people here don't have the 6 months to a year it may take. They are already looking for jobs right now, desperately grinding and applying. They don't have the luxury you and I had of being in another job building experience for the resume. They don't have a job right now and the longer the gap the worse they look in the eyes of the recruiters.
+
+If someone doesn't have a job they have more time in the day to grind.
+
+If someone has a job, they have less time but hey they at least have a job.
+
+I think where most people fail is the consistency part.
+
+I have consistency on looking and reading this valuable kind of posts, but failed to consistently practicing it 😴😓
+
+LMFAO i suffer the most from this too. Graduated 3 months ago and instead of grinding projects and LC the only thing i do consistently is reading these kind of posts
+
+yes, you spend time planning and thinking but not actually executing things
+
+load more comments (1 reply)
+load more comments (4 replies)
+
+in 2022, i studied for literally 2 days and got in. Tier 2 tech company. lol. They were hiring anyone with a pulse like me.
+
+In 2021, I landed my current 180k Euro job at a FAANG equivalent european company. At least the salary is comparable to european FAANG salaries and I was not asked a single LC question. Just talking technical stuff, what i did etc. I had visible opensource contributions to very famous projects though.
+
+Damn, congrats on Booking!
+
+solid TC for europe. Is it possible for you to share the project name?
+
+load more comments (4 replies)
+load more comments (4 replies)
+
+A year of 30 mins everyday?
+
+Not exactly 30 mins, and NGL I missed several weekends, spring break and most holidays. But yeah, about a problem a day. Sometimes I just solved an easy in 15 minutes, sometimes I passed the hour and still had no idea of how to solve a Hard.
+
+If you have the time, build the discipline to get started and eventually you'll build a feedback loop where you naturally want to solve a problem. No different from going to the gym and not wanting to skip it after been going for a while.
+
+load more comments (1 reply)
+
+Drop drop drop drop = ocean in the end. I guess doing 180 hours works.
+
+Is working while prepping okay?
+
+Can some of you guys here who got into FAANG tell us non FAANG folks how did you even get past the recruiter/ATS? I mean you gotta land even the first round of interview. And nobody needs to do leetcode for that I assume - an HR round or whatever (or am I wrong? Since I haven't ever landed even the first round of FAANG)
+
+So how do you guys get your foot in the door? I've applied tonnes of times to Microsoft, Google, Nextflix, Disney, Uber, Amazon etc but never got back any replies. How do we even get that first round? What do we put in our fucking resume to get that?
+
+Because my frustration is I'm solving problems left and right everyday but not getting the interviews...
+
+Do you at the very least get the OA (Online Assessment)? If not there's something wrong with your resume. Time to fill it up with side projects if you lack the experience.
+
+A side project with matching keywords to the job description should make you pass the automated resume screen. Then you get sent an automated OA, usually in HackerRank. And if you pass the test cases an actual human being get's to see your resume, calls or emails you and schedules an interview.
+
+Most people with a CS degree and a decent resume can get to the OA's. That's where they get stuck as they are asking LC Hards these days. Hence why we tell everybody to grind, not much they can do really.
+
+load more comments (1 reply)
+
+hey hi, what list of questions do you recommend for interview prep? i mean what resources did u use to select problems to do? would be a great help
+
+load more comments (1 reply)
+
+Do you have any advice for getting the first interview or getting your résumé noticed?
+
+I’m able to get quite a few interviews, but they are closer to the startup experience that I have.
+
+I’ve had a couple rounds of fang interviews and even gotten in a verbal offer before the position was frozen back in 2022.
+
+Since then, it’s been really tough to get my foot in the door and get noticed. Any tips on that?
+
+load more comments (5 replies)
+
+How many YOE do you have? Where did you work prior and what were the projects you were on ?
+
+Op is avoiding to answer this question idk why,i bet he goes to a top school and also was working at a faang adjacent company prior
+
+actually i think this post is just complete LARP looking at OP’s history.
+
+you can’t break into databricks without prior FAANG experience, their bar is insanely high just for resume screening. plus their tc is higher than every FAANG outside of maybe netflix.
+
+OP’s entire post history is just filled with long ass posts that read like creative writing excersise without any interaction from him in the comments. This is probably some other weird LARP he’s doing
+
+you are right,looks ai generated
+
+R u hating on ppl who go to top schools why is it a taboo to say u go to top schools is never why I’ll understand r/leetcode
+
+no,op going to a top school is probably a reason he got so many interviews in the first place.
+
+Just like the other day i saw a freshman who got offers from meta,nvidia and google(?) saying he got lucky but turns out he has a muliple math olympiad gold medalist,already had 2 years worth of internship as a freshman,published research papers with T50 professors etc he was absolutely cracked and also went to harvard which is probably the reason why his resume got filtered in the first place.
+
+I know. What else do you expect? People here cope about top schools getting all the offers by saying “projects projects, leetcode”, but secretly admits that it matters and get mad.
+
+But why do people here see that as a taboo? Why do people get mad over top schools having an advantage?
+
+I don't get mad at that,i get mad at people not saying they are from a top school when fetching multiple faang offers cause you know somethinng has got to standout you know? and i dont know why it is a taboo to say that.
+
+But i do see that people from here get mad at folks from top school,its just people coping "school doesn't matter hurr durr" and get real defensive when pointing out the truth
+
+load more comments (4 replies)
+load more comments (1 reply)
+
+How do you get interviews for FAANG? Is it just applying through linkedin and have a good resume?
+
+load more comments (11 replies)
+load more comments (2 replies)
+
+previous yoe? and at which company? top school?
+
+That’s the motivation I needed! Thank you.
+
+load more comments (1 reply)
+
+Congratulations! Thanks for sharing!
+
+It's also completely pointless because interview outcomes can really depend on luck it you are not prepared as hell (and even then) and different people learn at vastly different speeds.
+
+100%. You’re getting downvoted because people can’t accept that that’s the reality
+
+I know luck is a huge factor, but that doesn’t mean his approach to preparation is pointless
+
+That's what I have been doing for gym since Jan. Just show up at the gym everyday. There I can do whatever but must show up everyday 6 days a week. 5 months down I can see a lot of change.
+
+I haven't been able to convert it to lc/design prep. But I will keep trying. My target is Microsoft. This year. Whatever it takes.
+
+Same target. Whatever it takes!
+
+See you at the end of this year
+
+load more comments (3 replies)
+
+I took about 6 months to feel ready, which comes out to roughly ~180 hours of studying.
+
+Uh this is 90 hours of studying. ???
+
+he edited it lol
+
+load more comments (1 reply)
+
+Which did you prefer more, Jordan Has No Life vs HelloInterview?
+
+go for hello interview their approach is more intuitive and they build incrementally, it will build a great habit
+
+can you share more what did you use for system design learning?
+
+He's just all talk. Honestly, he's probably busy as hell and would likely struggle with a FAANG interview. If you actually want to pass, you need to be serious and just do the hard practice. Talking big is easy, but reality won't play along with that kind of show.
+
+Still , I would take his advice rather than someone who sells “PROXY INTERVIEWS “ in their bio
+
+Your comment and his approach are not mutually exclusive. He simply explained how he practiced, not how hard each practice was. It’s entirely possible that he applied intense effort to attempt hard practice in every time slot. What’s different is that he broke things down into their smallest elements.
+
+Quoting from Atomic Habits:
+
+“Instead of trying to make one massive improvement, Brailsford and his team searched for a tiny margin of improvement in everything. They redesigned bike seats for comfort, wore electrically heated shorts to maintain muscle temperature, tested massage gels for recovery, and even taught riders how to wash their hands more effectively to avoid illness.”
+
+These small changes, when combined, led to a dramatic transformation: British Cycling, under Brailsford, went on to win dozens of Olympic medals and dominate the Tour de Franc
+
+Everyone report this fake troll account please
+
+load more comments (1 reply)
+load more comments (1 reply)
+
+How is 30 min for 6 months 180 hours? Did you study 30 min or system design every day too, ie an hour a day?
+
+What's "FAANG+" or "FAANG-adjacent"? Sounds like you got an offer from a reasonable company where you dont have to study too hard in the first place.
+
+Good job regardless though.
+
+Is this for a new grad job? I finished my degree and have no internships or work experience and am wondering if I need to study system design on top of Leetcode.
+
+I would, just to stand out. But only for about a quarter of the time on systems design.
+
+One of the most inspirational posts I’ve read here
+
+What was your coding skill level when you started off and since neetcode 150 targets advanced concepts how did you streghthen the concepts
+
+In my experience, the problem with "cracking FAANG" is that you end up working in FAANG ... The only people who think working in FAANG would be great are people who've never worked in FAANG.
+
+load more comments (1 reply)
+
+Hey OP, just curious - did you start interview prep from scratch or were you a seasoned dev who’d passed these kind of interviews in the past, so it was more of an exercise in revision/ramp up?
+
+Just wondering if your past knowledge or experience gave you an advantage in some way. Would be very encouraging to know if you started mostly from scratch
+
+he said tripled my TC, so if he was working previously. he probably had some experience not completely from scratch. but I think OPs method works well in 6 months even if you start from scratch.
+
+I think if he was able to triple his TC, then definitely the earlier company wasn’t a FAANG+ and the interview prep would have been comparatively easy
+
+So I guess we can safely assume he started roughly from scratch with general purpose dev skills and knowledge, but not interview specific knowledge
+
+i know man consistency speaks volumes,but come on 30 mins a day? 😭 it takes me that much just to settle in and get my brain to tap in the thinking center. Won't this process be excruciatingly slow? And by this time frame hard problems will take u 4-5 days 😭
+
+but congratulations if it worked for u
+
+Congrats, I am really happy for you!
+
+What resource did you use to study system design?
+
+Great OP that it worked for you and congratulations!!! Did you solve certain amount of question per day in that 30 mins?
+
+Sometimes it takes me good 20 mins to just understand the question. LOL.
+
+OP said he wasn't able to solve single problem for the first few days. It takes time but you will also be able to understand and solve questions faster.
+
+So bro you have studied the dsa previously and was solving problems or you were new to dsa?
+
+Progress > perfection
+
+Did he use llms?
+
+Sounds good while reading....I am not finding myself in the state where I can afford this strategy.
+
+Thanks for posting this. As someone who is trying to stay ready to potentially job hop if required, this post really helped. It can be very disheartening to try to jump into studying LC without having done so in a while. It can make it feel like you don't know anything about the field you've been working in for years when you struggle to come up with top solutions for a medium. At least, that was my experience when I tried to start the grind at the beginning of this year.
+
+This post was a great reminder that consistency gets results.
+
+Hello, could you elaborate how you make and keep notes?
+
+I think the main point here is, study slowly while you still have a stable job.
+
+I myself felt overconfident about my current position and ignored practicing anything interview related.
+
+I still have a role, but having midnight sessions trying to catch up, for the small time I get between work and life
+
+Thanks for sharing! 30 mins is incredible and high efficient, but it's easy to insist. Make it a habit first, then skills will up.
+
+I have given interviews in the US ,india and Europe ..by far indian interviews are tougher even for FAANG
+
+Someone want to practice together? I would like to practice 1 hour about 4 times a week. I have previous experience with data structure from my university. Let me know, I would like to program in C++ and rust and maybe also C. DM if you are interested
+
+Awesome, thanks for sharing and congratulations!
+
+Thanks OP, this is a fantastic post and is quite insightful.
+
+The consistency is really commendable 👏🏾👏🏾
+
+This is good. And shall adopt this method.
+
+Good writeup, thanks op.
+
+Inspiring 🙏🏻 did you use only Leetcode?
+
+What did you do that that company considered your CV in the first place? I feel like that's currently the hardest part of the whole job application process. Out of 15 job applications I've sent over the past year, 1 led actually to an interview. All other 5-6 interviews I had were because some recruiter found my LinkedIn profile. To me, it feels like the only way to get an interview is to be found by a recruiter. Gone are the days where sending out your resume would lead to anything.
+
+Saved post. You are an inspiration to all of us.
+
+How do you prepare what to study each day? Do you sketch out a schedule every week during weekend?
+
+Hey, thanks for sharing your experience.
+
+Wanted to ask, what is your background?
+Interview is usually not the first stage of the selection and there must be something to secure the interview itself, e.g. good resume or big experience.
+
+So reassuring, thank you! I learn more and more from this sub that there is no one way to crack those interviews! And oh - congratulations!!
+
+I know someone who cracked META by just solving around 150 problems. It was in 2021.
+
+Congratulations! 🎉👏🏽
+
+hey how many YOE did you have when you cracked this FAANG adjacent company? and even in higher positions, the interviews only comprise of DSA and system design? frontend/backend isnt required?
+
+Good things take time and proper planning. Good stuff!
+
+Congrats buddy, your post is helpful. :)
+
+I studied for 3-4 hrs every day and cracked faang in a month
+
+load more comments (4 replies)
+
+My brother read atomic habits and took it to heart, and results show.
+Congrats, hope that I can get to that level.
+
+Could you share you leetcode profile in the post itself. Would be easier to get motivated seeing your daily persistence.
+
+What's your educational background?
+
+Inspiring. Thanks for sharing
+
+How did you got the OA/interview call? when and how did you apply?
+
+How many questions did you end up solving on leetcode?
+
+Op thank you for sharing such info🥳
+
+Did you have any personal projects on your resume? If so, what were they?
+
+Let me guess, you did 30 minutes of studying per day for few years?
+
+Thanks for sharing this. It's really inspiring!
+
+Someone please upvote this comment when OP responds to how many YoE they have and which level at Databricks did they interview for?
+
+What about if it takes longer than 30 minutes per question? Do you pick it back up where you left it or restart?
+
+This is awesome advice and makes the whole process feel way less daunting. Huge congrats!!!
+
+Any tips for getting interviews?
+
+That's some serious passion right there. Congrats!
+
+Name the tech stack
+
+You’re probably cracked on code then me. Everyone has different experiences. For me, I did neetcode but not every day. But it helped me get through interviews and eventually got an offer. It works!!!
+
+Congrats, well ffing done!
+
+Wish you the best!
+
+I'm taking similar approach, since griding 4 hours daily for 2 months resulted in serious health problems.
+
+Thank you for sharing this, hopefully I will learn smth from this.
+
+if it works for you doesn't mean it works for everyone. How about someone without a CS degree?
+
+Congrats though
+
+Question , if you couldn’t get a problem in your first time seeing the problem in the 30 min block , I assume the next day you looked at the solution and tried to understand it for 30 mins?
+
+I studied 1-1.5h a day for 3-5 months to get into meta
+
+load more comments (1 reply)
+
+I am very interested in real time system designing and embedded system. Any advice
+
+I have followed Jordan has no life and the system design series is a must watch. It helped me to crack Agoda system design's interview.
+Thanks for sharing the preparation strategy.
+
+Feels more like humblebrag cosplay than real advice.
+
+Congratulations 🎊
+
+A sober take. Thanks for sharing, now can you give me a referral?
+
+load more comments (1 reply)
+
+Great. Good approach.
+
+POV : Its 2025 - Interviews have become unnecessarily difficult, company decisions are so volatile even an opening opens/closes randomly during the time of your interview itself. The only thing to help you is luck (or if you are a diversity hire)
+
+This is great, a lot of people feel they need to study X hours a day and they think reading and "studying" a solution is the same as learning and actually understanding it. Small chunks for a long period of time worked for me too when the interviews were still somewhat sane lmao
+
+How familiar are u with DSA & Sys design before u start to prep the FAANG interviews?
+
+thank you for sharing! congrats!
+
+Thanks for motivating
+
+It's very encouraging, keep a good habit is a long run is more important. Rome cannot build for one day.
+
+During the last 30 minutes of your study session, what was your learning approach?
+Did you start by gathering all the necessary study materials first, or did you jump directly into reading?
+Did you go through the content line by line, or did you focus mainly on key points and important concepts?
+Also, did you rely more on textbooks, online tutorials, or your own notes?
+
+This is key- set a clock for the target amount of time- I do 90 minutes a day. I strive to catch key concepts.
+
+Did you have any plannings for this 30min session? For example, this day 30min of bfs, next day 30min dfs,..
+
+I really like how you consistently put in 30 minutes of effort every day. That kind of short, regular grind usually gets overlooked in favor of flashy, intense stuff. But being committed and sticking to your 30-min goal clearly paid off. And yeah, six months without missing a single day? That’s impressive. Honestly, more than your LeetCode skills, it’s the consistency that stands out. I try to stay consistent too, but I’ve been failing miserably.
+
+But you are CS graduate does your cs degree not count as time spent studying?
+
+How do you get your resume shortlisted if you're a fresher though
+
+What did you start with, you went to leetcode, but how did you determine where and what you started, and did your education background affect interviews or help you in a unique way? a TLDR guide would be nice, I'm curious
+
+Hey, thanks for sharing this, really helpful! I’m a fresher with less than a year of experience, currently working as an SDE at a fintech. I’m not planning to switch immediately, maybe in a year or so. Do you think 30 mins is enough , or would you recommend a different roadmap? Also, I haven’t started with system design yet is that something to worry about now, or can it wait until later in the journey?
+
+What a beast
+
+What is your background? In backend ?
+
+Was your exp mainly in backend ?
+
+what about leetcode contests?? is the sheet enough??
+
+load more comments (1 reply)
+
+The same exact plan i made today to start my journey in dsa and system design. I am glad that i came across this post
+
+hey OP congrats on your offer. How long did it take to prepare? right from scratch..
+
+I feel the better way to conquer leetcode is only focus the most frequent 100 recent questions for a specific company. I did it for prepare the Meta interview, I successfully crack down 6 leetcode questions in the interview, but I failed on system design. I find github leetcode tracking is useful, however I don't think it updated on time. If I can log the interview dynamically it would be awesome, so I tried to create my own tracking website podtree.ca.
+
+Just Thanks for sharing this brother 🙏🙏
+
+I’m from a non tech background, I have been studying sql, tableau and power bi for business analyst roles. My sole problem is leetcode questions are straight forward which makes it easier to understand and solve. But the interview assessments are very twisted and difficult to solve. Even though I’m clear on sql concepts, I’m struck at putting it together as a query. Any help or suggestions to improve would be great.
+
+load more comments (1 reply)
+
+What did you do after the 30 minutes session? Did you do dev or something else?
+
+Op How did you make projects and how much time taken for making projects?
+
+I consistently think I'm more consistent than I am
+
+I have not read every single comments yet so if this is already mentioned, please disregard.
+
+I want to also talk about how "smart" one is. The smarter you are, the lesser frustration you are likely to encounter each study. That means the more likely you are to continue and be consistent.
+
+Everyone is on different level of aptitude.
+
+For ones whose weekend is more free, maybe half hour in the morning and add another half hour in the evening?
+
+You cant crack leetcode with just 30 minutes study everyday unless you have done them for years. I see people from IIT struggling with problems and spending hours. My friends who cracked faang in 2021 when market was easiest did 600 and 500 problems to get junior to mid level engineering jobs. Stop spreading misinformation. People work very hard here and miracles do happen but not for everyone.
+
+congratulations man, very inspiring !
+
+I am starting, Hope for the best. Will follow the same approach. CONSISTENCY.
+
+It took me 30 min to read the post.
+
+how you are getting your resume shortlisted?
+
+This sounds fAKE man, IDK... I feel lik eu Just got AI to write this... I 'll do one too:
+
+I used to think breaking into FAANG+ meant grinding LeetCode for 6 hours a day, reading 5 textbooks, and living like a monk. Truth is, I only had ~30 minutes a day to dedicate to prep (I was working full-time + life commitments). But I still managed to crack it. Here’s how:
+
+The Strategy
+I alternated days between coding practice and system design prep. That’s it.
+
+Day 1: Coding (30 min)
+Picked one LeetCode-style problem.
+If I couldn’t solve it in time, I didn’t beat myself up. I spent the remaining minutes reading the solution and writing down the pattern.
+The goal wasn’t “solving everything,” it was “recognizing patterns.”
+Day 2: System Design (30 min)
+Picked a common design (URL shortener, newsfeed, etc.).
+Skimmed one resource (video, blog, or notes).
+Wrote down the high-level approach in a notebook (components, bottlenecks, trade-offs).
+Over time, I built a mental library of designs I could remix in interviews.
+And then I just repeated this cycle.
+
+Why It Worked
+Consistency > Intensity. Half an hour every day compounds way faster than burning out after 3 weeks of hardcore prep.
+Context switching. Alternating coding/design kept it interesting and prevented burnout.
+Pattern recognition. Interviews aren’t about reinventing the wheel—they’re about mapping problems to familiar patterns quickly.
+My Tips for You
+Don’t obsess over “finishing” LeetCode. Focus on categories (DP, graphs, backtracking, etc.) and patterns.
+Write down your own summaries instead of just reading others. You’ll retain more.
+System design is scary at first, but 30 min sessions stack up fast—you’ll start seeing the same trade-offs (caching, sharding, queues) over and over.
+If you’re strapped for time, remember: you don’t need 10-hour grind sessions. You need consistency, reflection, and pattern-building.
+
+Similar pattern i used to crack almost all big tech giants - https://youtu.be/e5bn6h_GTW0?feature=shared
+
+This is helpful
+
+load more comments (1 reply)
+
+I set myself the same daily goal and it also worked for me! This was early-mid 2022 so a great time for hiring but I had no degree and a year and a half of experience at a no-name company. I wish I learned how powerful consistency is earlier!
+
+Hi,
+
+What were the resources which you used to learn. You mentioned that you did pay for any courses so I am curious.
+
+You could have practiced in just 1-2 hours and still get hired. DM me the info.
+
+<image>
+
+Leetcode solver. Practice in minutes and ace any coding interview.
+
+load more comments (1 reply)
+
+But what is the toughest thing in this whole process ?
+
+Posts like these are what gives hope to me. thank you brother and good luck.

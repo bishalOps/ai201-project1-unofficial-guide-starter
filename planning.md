@@ -9,27 +9,29 @@
 
 ## Domain
 
-<!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
+CS Internship and Early Career Advice, specifically the unofficial, experience-based knowledge that CS students share with each other about landing internships, preparing for technical interviews, surviving the first weeks on the job, and converting internships to full-time offers. Unlike official career center websites give generic advice; this system surfaces what students and early-career engineers actually learned through trial and error.
 
 ---
 
 ## Documents
 
-<!-- List your specific sources: URLs, subreddit names, forum threads, or file descriptions.
-     Aim for at least 10 sources that together cover different subtopics or perspectives within your domain. -->
-
-| # | Source | Description | URL or location |
-|---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| # | Source | Description | URL |
+|---|--------|-------------|-----|
+| 1 | r/cscareerquestions | What to expect from a behavioral interview | https://www.reddit.com/r/cscareerquestions/comments/17fofv/ |
+| 2 | r/datascience | Help choosing between two job offers | https://www.reddit.com/r/datascience/comments/1gxm6nh/ |
+| 3 | r/cscareerquestions | Failed a medium/easy coding question and feel terrible | https://www.reddit.com/r/cscareerquestions/comments/pjgf10/ |
+| 4 | r/college | How do you get internships with no work experience? | https://old.reddit.com/r/college/comments/1hs4h5p/ |
+| 5 | r/jobsearch | Best way to get a job referral to tech companies? | https://www.reddit.com/r/jobsearch/comments/1sf0sk4/ |
+| 6 | r/cscareerquestions | Extreme Imposter Syndrome at new internship | https://www.reddit.com/r/cscareerquestions/comments/8w0dxx/ |
+| 7 | r/csMajors | How to get a return offer? | https://www.reddit.com/r/csMajors/comments/1cszspb/ |
+| 8 | r/UXDesign | Best advice for requesting job referrals from strangers | https://www.reddit.com/r/UXDesign/comments/1avz31e/ |
+| 9 | r/leetcode | How I cracked FAANG+ with just 30 minutes of studying per day | https://www.reddit.com/r/leetcode/comments/1kmt5le/ |
+| 10 | r/cscareerquestions | Negotiating return offer or learning to accept | https://old.reddit.com/r/cscareerquestions/comments/9dd0yb/ |
+| 11 | r/cscareerquestions | Good side projects for junior developers with no SWE experience | https://www.reddit.com/r/cscareerquestions/comments/14qyteg/ |
+| 12 | r/ExperiencedDevs | How to prepare for a real-world coding interview vs LeetCode | https://old.reddit.com/r/ExperiencedDevs/comments/1p2ew23/ |
+| 13 | r/resumes | What do I put on a resume with absolutely no experience | https://www.reddit.com/r/resumes/comments/1gl1dem/ |
+| 14 | r/internships | When did you start applying for summer and how did you track it? | https://www.reddit.com/r/internships/comments/1ddq1st/ |
+| 15 | r/cscareerquestions | What do you wish you knew before you started your internship? | https://www.reddit.com/r/cscareerquestions/comments/btei0w/ |
 
 ---
 
