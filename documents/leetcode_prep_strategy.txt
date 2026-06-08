@@ -38,9 +38,6 @@ It takes me 30mins of disassociating with LC open, to actually start studying.
 
 A lot of my friends always have it open on their screen
 
-load more comments (1 reply)
-load more comments (2 replies)
-
 That's the way I did it, but it took me over a year to get into a FAANG and that was back in 2022 when things were way easier. I still believe this is the best ways to study, slow but steady. That way you retain more and don't risk burnout.
 
 The issue is most people here don't have the 6 months to a year it may take. They are already looking for jobs right now, desperately grinding and applying. They don't have the luxury you and I had of being in another job building experience for the resume. They don't have a job right now and the longer the gap the worse they look in the eyes of the recruiters.
@@ -57,9 +54,6 @@ LMFAO i suffer the most from this too. Graduated 3 months ago and instead of gri
 
 yes, you spend time planning and thinking but not actually executing things
 
-load more comments (1 reply)
-load more comments (4 replies)
-
 in 2022, i studied for literally 2 days and got in. Tier 2 tech company. lol. They were hiring anyone with a pulse like me.
 
 In 2021, I landed my current 180k Euro job at a FAANG equivalent european company. At least the salary is comparable to european FAANG salaries and I was not asked a single LC question. Just talking technical stuff, what i did etc. I had visible opensource contributions to very famous projects though.
@@ -68,16 +62,11 @@ Damn, congrats on Booking!
 
 solid TC for europe. Is it possible for you to share the project name?
 
-load more comments (4 replies)
-load more comments (4 replies)
-
 A year of 30 mins everyday?
 
 Not exactly 30 mins, and NGL I missed several weekends, spring break and most holidays. But yeah, about a problem a day. Sometimes I just solved an easy in 15 minutes, sometimes I passed the hour and still had no idea of how to solve a Hard.
 
 If you have the time, build the discipline to get started and eventually you'll build a feedback loop where you naturally want to solve a problem. No different from going to the gym and not wanting to skip it after been going for a while.
-
-load more comments (1 reply)
 
 Drop drop drop drop = ocean in the end. I guess doing 180 hours works.
 
@@ -95,11 +84,7 @@ A side project with matching keywords to the job description should make you pas
 
 Most people with a CS degree and a decent resume can get to the OA's. That's where they get stuck as they are asking LC Hards these days. Hence why we tell everybody to grind, not much they can do really.
 
-load more comments (1 reply)
-
 hey hi, what list of questions do you recommend for interview prep? i mean what resources did u use to select problems to do? would be a great help
-
-load more comments (1 reply)
 
 Do you have any advice for getting the first interview or getting your résumé noticed?
 
@@ -108,8 +93,6 @@ I’m able to get quite a few interviews, but they are closer to the startup exp
 I’ve had a couple rounds of fang interviews and even gotten in a verbal offer before the position was frozen back in 2022.
 
 Since then, it’s been really tough to get my foot in the door and get noticed. Any tips on that?
-
-load more comments (5 replies)
 
 How many YOE do you have? Where did you work prior and what were the projects you were on ?
 
@@ -137,19 +120,11 @@ I don't get mad at that,i get mad at people not saying they are from a top schoo
 
 But i do see that people from here get mad at folks from top school,its just people coping "school doesn't matter hurr durr" and get real defensive when pointing out the truth
 
-load more comments (4 replies)
-load more comments (1 reply)
-
 How do you get interviews for FAANG? Is it just applying through linkedin and have a good resume?
-
-load more comments (11 replies)
-load more comments (2 replies)
 
 previous yoe? and at which company? top school?
 
 That’s the motivation I needed! Thank you.
-
-load more comments (1 reply)
 
 Congratulations! Thanks for sharing!
 
@@ -167,15 +142,11 @@ Same target. Whatever it takes!
 
 See you at the end of this year
 
-load more comments (3 replies)
-
 I took about 6 months to feel ready, which comes out to roughly ~180 hours of studying.
 
 Uh this is 90 hours of studying. ???
 
 he edited it lol
-
-load more comments (1 reply)
 
 Which did you prefer more, Jordan Has No Life vs HelloInterview?
 
@@ -197,9 +168,6 @@ These small changes, when combined, led to a dramatic transformation: British Cy
 
 Everyone report this fake troll account please
 
-load more comments (1 reply)
-load more comments (1 reply)
-
 How is 30 min for 6 months 180 hours? Did you study 30 min or system design every day too, ie an hour a day?
 
 What's "FAANG+" or "FAANG-adjacent"? Sounds like you got an offer from a reasonable company where you dont have to study too hard in the first place.
@@ -215,8 +183,6 @@ One of the most inspirational posts I’ve read here
 What was your coding skill level when you started off and since neetcode 150 targets advanced concepts how did you streghthen the concepts
 
 In my experience, the problem with "cracking FAANG" is that you end up working in FAANG ... The only people who think working in FAANG would be great are people who've never worked in FAANG.
-
-load more comments (1 reply)
 
 Hey OP, just curious - did you start interview prep from scratch or were you a seasoned dev who’d passed these kind of interviews in the past, so it was more of an exercise in revision/ramp up?
 
@@ -305,8 +271,6 @@ Congrats buddy, your post is helpful. :)
 
 I studied for 3-4 hrs every day and cracked faang in a month
 
-load more comments (4 replies)
-
 My brother read atomic habits and took it to heart, and results show.
 Congrats, hope that I can get to that level.
 
@@ -358,8 +322,6 @@ Question , if you couldn’t get a problem in your first time seeing the problem
 
 I studied 1-1.5h a day for 3-5 months to get into meta
 
-load more comments (1 reply)
-
 I am very interested in real time system designing and embedded system. Any advice
 
 I have followed Jordan has no life and the system design series is a must watch. It helped me to crack Agoda system design's interview.
@@ -370,8 +332,6 @@ Feels more like humblebrag cosplay than real advice.
 Congratulations 🎊
 
 A sober take. Thanks for sharing, now can you give me a referral?
-
-load more comments (1 reply)
 
 Great. Good approach.
 
@@ -414,8 +374,6 @@ Was your exp mainly in backend ?
 
 what about leetcode contests?? is the sheet enough??
 
-load more comments (1 reply)
-
 The same exact plan i made today to start my journey in dsa and system design. I am glad that i came across this post
 
 hey OP congrats on your offer. How long did it take to prepare? right from scratch..
@@ -425,8 +383,6 @@ I feel the better way to conquer leetcode is only focus the most frequent 100 re
 Just Thanks for sharing this brother 🙏🙏
 
 I’m from a non tech background, I have been studying sql, tableau and power bi for business analyst roles. My sole problem is leetcode questions are straight forward which makes it easier to understand and solve. But the interview assessments are very twisted and difficult to solve. Even though I’m clear on sql concepts, I’m struck at putting it together as a query. Any help or suggestions to improve would be great.
-
-load more comments (1 reply)
 
 What did you do after the 30 minutes session? Did you do dev or something else?
 
@@ -484,21 +440,11 @@ Similar pattern i used to crack almost all big tech giants - https://youtu.be/e5
 
 This is helpful
 
-load more comments (1 reply)
-
 I set myself the same daily goal and it also worked for me! This was early-mid 2022 so a great time for hiring but I had no degree and a year and a half of experience at a no-name company. I wish I learned how powerful consistency is earlier!
 
 Hi,
 
 What were the resources which you used to learn. You mentioned that you did pay for any courses so I am curious.
-
-You could have practiced in just 1-2 hours and still get hired. DM me the info.
-
-<image>
-
-Leetcode solver. Practice in minutes and ace any coding interview.
-
-load more comments (1 reply)
 
 But what is the toughest thing in this whole process ?
 
