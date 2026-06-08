@@ -96,8 +96,9 @@ def load_chunks() -> list[dict]:
         meta, body = parse_document(raw)
         meta["filename"] = filename
         body = clean_text(body)
-        for chunk in chunk_text(body):
-            all_chunks.append({"text": chunk, **meta})
+        for position, chunk in enumerate(chunk_text(body)):
+            # chunk_index = position of this chunk within its own document
+            all_chunks.append({"text": chunk, "chunk_index": position, **meta})
     return all_chunks
 
 
